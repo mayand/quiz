@@ -82,6 +82,10 @@ button:hover {
     margin-top: 20px;
 }
 
+button.hidden {
+    display: none;
+}
+
 .home-link {
     text-decoration: none;
     color: #007bff;
@@ -116,4 +120,10 @@ button:hover {
 
 .home-container ul li a:hover {
     text-decoration: underline;
+}
+
+.result {
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 20px;
 }

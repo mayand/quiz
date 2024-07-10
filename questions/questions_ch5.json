@@ -1,0 +1,695 @@
+[
+    {
+        "question": "What major economic discovery in 1947 significantly impacted Canada's energy industry?",
+        "options": [
+            "Gold in Yukon",
+            "Diamonds in Northwest Territories",
+            "Oil in Alberta",
+            "Natural gas in British Columbia"
+        ],
+        "correct": "c",
+        "explanation": "The discovery of oil in Alberta in 1947 began Canada's modern energy industry."
+    },
+    {
+        "question": "Which international military alliance did Canada join during the Cold War?",
+        "options": [
+            "NATO",
+            "Warsaw Pact",
+            "SEATO",
+            "ASEAN"
+        ],
+        "correct": "a",
+        "explanation": "Canada joined the North Atlantic Treaty Organization (NATO) during the Cold War."
+    },
+    {
+        "question": "What does the Canada Health Act ensure?",
+        "options": [
+            "Free healthcare for all immigrants",
+            "Common elements and a basic standard of coverage for all Canadians",
+            "Private healthcare for all citizens",
+            "Universal dental care"
+        ],
+        "correct": "b",
+        "explanation": "The Canada Health Act ensures common elements and a basic standard of coverage for all Canadians."
+    },
+    {
+        "question": "Which event led to the forced relocation and sale of property of Japanese-Canadians?",
+        "options": [
+            "World War I",
+            "Korean War",
+            "World War II",
+            "Vietnam War"
+        ],
+        "correct": "c",
+        "explanation": "During World War II Japanese-Canadians were forcibly relocated and their property was sold without compensation."
+    },
+    {
+        "question": "What year did Japanese-Canadians gain the right to vote in federal and provincial elections?",
+        "options": [
+            "1948",
+            "1950",
+            "1960",
+            "1970"
+        ],
+        "correct": "a",
+        "explanation": "Japanese-Canadians gained the right to vote in federal and provincial elections in 1948."
+    },
+    {
+        "question": "When were Aboriginal peoples granted the right to vote in federal elections?",
+        "options": [
+            "1950",
+            "1960",
+            "1970",
+            "1980"
+        ],
+        "correct": "b",
+        "explanation": "Aboriginal peoples were granted the right to vote in federal elections in 1960."
+    },
+    {
+        "question": "What does the term 'multiculturalism' signify in Canada?",
+        "options": [
+            "The integration of all cultures into one dominant culture",
+            "The celebration and respect of diverse cultural backgrounds",
+            "The restriction of immigration to preserve national identity",
+            "The preference for European cultural practices"
+        ],
+        "correct": "b",
+        "explanation": "Multiculturalism in Canada signifies the celebration and respect of diverse cultural backgrounds recognizing the contributions of various ethnic groups to Canadian society."
+    },
+    {
+        "question": "Who are some notable Canadian writers mentioned in Chapter 5?",
+        "options": [
+            "Margaret Atwood and Michael Ondaatje",
+            "J.K. Rowling and Stephen King",
+            "Ernest Hemingway and F. Scott Fitzgerald",
+            "William Shakespeare and Charles Dickens"
+        ],
+        "correct": "a",
+        "explanation": "Notable Canadian writers include Margaret Atwood and Michael Ondaatje who have made significant contributions to literature in English."
+    },
+    {
+        "question": "What is the Group of Seven known for?",
+        "options": [
+            "Sculpting historical figures",
+            "Developing a style of painting that captures the rugged wilderness landscapes",
+            "Creating modern abstract art",
+            "Writing Canadian literature"
+        ],
+        "correct": "b",
+        "explanation": "The Group of Seven is known for developing a style of painting that captures the rugged wilderness landscapes of Canada."
+    },
+    {
+        "question": "Which Canadian filmmaker has won international awards and is known for popular films in Quebec?",
+        "options": [
+            "James Cameron",
+            "Denys Arcand",
+            "David Cronenberg",
+            "Atom Egoyan"
+        ],
+        "correct": "b",
+        "explanation": "Denys Arcand is a Canadian filmmaker known for popular films in Quebec and has won international awards."
+    },
+    {
+        "question": "What significant change occurred in the 1960s regarding women's roles in Canada?",
+        "options": [
+            "Women were granted the right to vote",
+            "Women began to enter the professional workforce in greater numbers",
+            "Women were allowed to serve in the military",
+            "Women gained the right to own property"
+        ],
+        "correct": "b",
+        "explanation": "In the 1960s a growing number of women entered the professional workforce reflecting changing social values."
+    },
+    {
+        "question": "What was the significance of the Official Languages Act of 1969?",
+        "options": [
+            "It made English the only official language of Canada",
+            "It guaranteed French and English services in the federal government across Canada",
+            "It promoted the use of Indigenous languages",
+            "It abolished bilingualism in Canada"
+        ],
+        "correct": "b",
+        "explanation": "The Official Languages Act of 1969 guaranteed French and English services in the federal government across Canada."
+    },
+    {
+        "question": "What international organization of French-speaking countries did Canada help found in 1970?",
+        "options": [
+            "La Francophonie",
+            "The European Union",
+            "The Commonwealth",
+            "NATO"
+        ],
+        "correct": "a",
+        "explanation": "Canada helped found La Francophonie an international association of French-speaking countries in 1970."
+    },
+    {
+        "question": "What year was the first referendum on Quebec sovereignty defeated?",
+        "options": [
+            "1975",
+            "1980",
+            "1985",
+            "1995"
+        ],
+        "correct": "b",
+        "explanation": "The first referendum on Quebec sovereignty was defeated in 1980."
+    },
+    {
+        "question": "What significant event happened in Canada in 1982 without Quebec's agreement?",
+        "options": [
+            "The signing of the North American Free Trade Agreement",
+            "The patriation of the Canadian Constitution",
+            "The establishment of the Canada Health Act",
+            "The introduction of the metric system"
+        ],
+        "correct": "b",
+        "explanation": "In 1982 the Canadian Constitution was patriated without the agreement of Quebec."
+    },
+    {
+        "question": "What was the outcome of the second referendum on Quebec sovereignty in 1995?",
+        "options": [
+            "Sovereignty was achieved",
+            "Sovereignty was defeated",
+            "Quebec became a separate country",
+            "Quebec joined the United States"
+        ],
+        "correct": "b",
+        "explanation": "The second referendum on Quebec sovereignty in 1995 was defeated."
+    },
+    {
+        "question": "Who is known for pioneering modern Inuit art with etchings prints and soapstone sculptures?",
+        "options": [
+            "Emily Carr",
+            "Kenojuak Ashevak",
+            "Louis-Philippe Hébert",
+            "Jean-Paul Riopelle"
+        ],
+        "correct": "b",
+        "explanation": "Kenojuak Ashevak is known for pioneering modern Inuit art with etchings prints and soapstone sculptures."
+    },
+    {
+        "question": "What is Canada's financial capital?",
+        "options": [
+            "Montreal",
+            "Vancouver",
+            "Toronto",
+            "Ottawa"
+        ],
+        "correct": "c",
+        "explanation": "Toronto is considered Canada's financial capital."
+    },
+    {
+        "question": "What Canadian company is internationally renowned for its performances combining circus arts and street entertainment?",
+        "options": [
+            "Cirque du Soleil",
+            "Royal Winnipeg Ballet",
+            "National Ballet of Canada",
+            "Stratford Festival"
+        ],
+        "correct": "a",
+        "explanation": "Cirque du Soleil is internationally renowned for its performances combining circus arts and street entertainment."
+    },
+    {
+        "question": "What is the significance of the General Agreement on Tariffs and Trade (GATT) for Canada?",
+        "options": [
+            "It restricted Canada's trade policies",
+            "It opened up the world's restrictive trading policies benefiting Canada's economy",
+            "It created a common market for North America",
+            "It established Canada's domestic trade policies"
+        ],
+        "correct": "b",
+        "explanation": "The General Agreement on Tariffs and Trade (GATT) opened up the world's restrictive trading policies benefiting Canada's economy."
+    },
+    {
+        "question": "When was employment insurance introduced in Canada?",
+        "options": [
+            "1927",
+            "1940",
+            "1951",
+            "1965"
+        ],
+        "correct": "b",
+        "explanation": "Employment insurance (formerly called unemployment insurance) was introduced in Canada in 1940."
+    },
+    {
+        "question": "Which Canadian artist is known for painting the forests and Aboriginal artifacts of the West Coast?",
+        "options": [
+            "Emily Carr",
+            "Tom Thomson",
+            "Lawren Harris",
+            "A.Y. Jackson"
+        ],
+        "correct": "a",
+        "explanation": "Emily Carr is known for painting the forests and Aboriginal artifacts of the West Coast."
+    },
+    {
+        "question": "What organization did Canada join to defend South Korea during the Korean War?",
+        "options": [
+            "NATO",
+            "NORAD",
+            "The United Nations",
+            "The Commonwealth"
+        ],
+        "correct": "c",
+        "explanation": "Canada joined the United Nations operation to defend South Korea during the Korean War."
+    },
+    {
+        "question": "What is the role of the Canada Health Act?",
+        "options": [
+            "To provide free healthcare for all immigrants",
+            "To ensure a basic standard of healthcare coverage for all Canadians",
+            "To promote private healthcare services",
+            "To establish universal dental care"
+        ],
+        "correct": "b",
+        "explanation": "The Canada Health Act ensures a basic standard of healthcare coverage for all Canadians."
+    },
+    {
+        "question": "What year did Canada apologize and compensate the victims of Japanese-Canadian internment during World War II?",
+        "options": [
+            "1945",
+            "1950",
+            "1975",
+            "1988"
+        ],
+        "correct": "d",
+        "explanation": "The Canadian government apologized and compensated the victims of Japanese-Canadian internment during World War II in 1988."
+    },
+    {
+        "question": "What year did Canada introduce Old Age Security?",
+        "options": [
+            "1927",
+            "1940",
+            "1951",
+            "1965"
+        ],
+        "correct": "a",
+        "explanation": "Old Age Security was introduced in Canada as early as 1927."
+    },
+    {
+        "question": "Which artist group is historically known for developing a style of painting that captures Canada's rugged wilderness landscapes?",
+        "options": [
+            "Les Automatistes",
+            "Group of Seven",
+            "Royal Canadian Academy of Arts",
+            "Painters Eleven"
+        ],
+        "correct": "b",
+        "explanation": "The Group of Seven is historically known for developing a style of painting that captures Canada's rugged wilderness landscapes."
+    },
+    {
+        "question": "Who was a celebrated sculptor of historical figures in Quebec?",
+        "options": [
+            "Emily Carr",
+            "Kenojuak Ashevak",
+            "Louis-Philippe Hébert",
+            "Jean-Paul Riopelle"
+        ],
+        "correct": "c",
+        "explanation": "Louis-Philippe Hébert was a celebrated sculptor of historical figures in Quebec."
+    },
+    {
+        "question": "What year did Canada participate in the Korean War?",
+        "options": [
+            "1945-1948",
+            "1950-1953",
+            "1960-1963",
+            "1970-1973"
+        ],
+        "correct": "b",
+        "explanation": "Canada participated in the Korean War from 1950 to 1953."
+    },
+    {
+        "question": "What is the significance of the World Trade Organization (WTO) for Canada?",
+        "options": [
+            "It restricted Canada's trade policies",
+            "It replaced the General Agreement on Tariffs and Trade (GATT)",
+            "It established a common market for North America",
+            "It promoted domestic trade policies"
+        ],
+        "correct": "b",
+        "explanation": "The World Trade Organization (WTO) replaced the General Agreement on Tariffs and Trade (GATT) continuing to open up trade policies beneficial to Canada."
+    },
+    {
+        "question": "What did the Royal Commission on Bilingualism and Biculturalism lead to in 1969?",
+        "options": [
+            "The abolition of bilingualism in Canada",
+            "The Official Languages Act",
+            "The establishment of a new constitution",
+            "The creation of the Canadian Charter of Rights and Freedoms"
+        ],
+        "correct": "b",
+        "explanation": "The Royal Commission on Bilingualism and Biculturalism led to the Official Languages Act in 1969 guaranteeing French and English services in the federal government across Canada."
+    },
+    {
+        "question": "Who is a notable Canadian filmmaker known for 'The Sweet Hereafter'?",
+        "options": [
+            "Denys Arcand",
+            "Atom Egoyan",
+            "David Cronenberg",
+            "Norman Jewison"
+        ],
+        "correct": "b",
+        "explanation": "Atom Egoyan is a notable Canadian filmmaker known for 'The Sweet Hereafter.'"
+    },
+    {
+        "question": "What year was the Canada and Quebec Pension Plans introduced?",
+        "options": [
+            "1927",
+            "1940",
+            "1951",
+            "1965"
+        ],
+        "correct": "d",
+        "explanation": "The Canada and Quebec Pension Plans were introduced in 1965."
+    },
+    {
+        "question": "What international organization did Canada help found to promote French-speaking countries?",
+        "options": [
+            "The Commonwealth",
+            "La Francophonie",
+            "NATO",
+            "The European Union"
+        ],
+        "correct": "b",
+        "explanation": "Canada helped found La Francophonie an international association of French-speaking countries in 1970."
+    },
+    {
+        "question": "What did the Quiet Revolution in Quebec signify?",
+        "options": [
+            "A period of military conflict",
+            "A period of rapid social and political change",
+            "The independence of Quebec",
+            "The abolition of French language education"
+        ],
+        "correct": "b",
+        "explanation": "The Quiet Revolution in Quebec during the 1960s was a period of rapid social and political change."
+    },
+    {
+        "question": "What was the primary purpose of the Royal Commission on Bilingualism and Biculturalism established in 1963?",
+        "options": [
+            "To promote Indigenous languages",
+            "To study and recommend measures for bilingualism and biculturalism in Canada",
+            "To promote multiculturalism",
+            "To abolish the use of French in Canada"
+        ],
+        "correct": "b",
+        "explanation": "The Royal Commission on Bilingualism and Biculturalism was established in 1963 to study and recommend measures to ensure the coexistence of English and French cultures in Canada."
+    },
+    {
+        "question": "What significant change occurred in Canadian society regarding voting rights in 1960?",
+        "options": [
+            "Women were granted the right to vote",
+            "The voting age was lowered to 18",
+            "Aboriginal people were granted the right to vote",
+            "Immigrants were granted the right to vote"
+        ],
+        "correct": "c",
+        "explanation": "Aboriginal people in Canada were granted the right to vote in federal elections in 1960."
+    },
+    {
+        "question": "Who was the first Canadian to walk in space?",
+        "options": [
+            "Marc Garneau",
+            "Chris Hadfield",
+            "Roberta Bondar",
+            "Julie Payette"
+        ],
+        "correct": "b",
+        "explanation": "Chris Hadfield became the first Canadian to walk in space in 2001."
+    },
+    {
+        "question": "What international event did Canada host in 2010 that had a significant cultural impact?",
+        "options": [
+            "The Summer Olympics",
+            "The G7 Summit",
+            "The Winter Olympics",
+            "The Expo 67"
+        ],
+        "correct": "c",
+        "explanation": "Canada hosted the Winter Olympics in Vancouver in 2010 which had a significant cultural impact."
+    },
+    {
+        "question": "What is the significance of the Quiet Revolution in Quebec during the 1960s?",
+        "options": [
+            "It was a period of military conflict",
+            "It marked a significant social and cultural transformation in Quebec society",
+            "It led to the independence of Quebec",
+            "It was the first successful separatist movement in Canada"
+        ],
+        "correct": "b",
+        "explanation": "The Quiet Revolution in Quebec during the 1960s was a period of rapid social cultural and political change."
+    },
+    {
+        "question": "Which Canadian province experienced rapid economic growth due to the discovery of oil in the 1940s?",
+        "options": [
+            "British Columbia",
+            "Alberta",
+            "Ontario",
+            "Quebec"
+        ],
+        "correct": "b",
+        "explanation": "The discovery of oil in Alberta in the 1940s led to rapid economic growth in the province."
+    },
+    {
+        "question": "What role did Canada play in the Korean War?",
+        "options": [
+            "Neutral observer",
+            "Contributed to the United Nations forces",
+            "Allied with North Korea",
+            "Did not participate"
+        ],
+        "correct": "b",
+        "explanation": "Canada joined the United Nations forces to defend South Korea during the Korean War from 1950 to 1953."
+    },
+    {
+        "question": "What is the main purpose of La Francophonie?",
+        "options": [
+            "To promote French cuisine",
+            "To support French-speaking countries worldwide",
+            "To organize French language festivals",
+            "To translate Canadian literature into French"
+        ],
+        "correct": "b",
+        "explanation": "La Francophonie is an international organization that supports French-speaking countries around the world."
+    },
+    {
+        "question": "What was the result of the second referendum on Quebec sovereignty in 1995?",
+        "options": [
+            "Sovereignty was achieved",
+            "Sovereignty was defeated",
+            "Quebec became an independent country",
+            "Quebec joined the United States"
+        ],
+        "correct": "b",
+        "explanation": "The second referendum on Quebec sovereignty in 1995 resulted in the defeat of the sovereignty movement."
+    },
+    {
+        "question": "What is the significance of the Canadian Charter of Rights and Freedoms?",
+        "options": [
+            "It established Canada's independence from Britain",
+            "It guarantees fundamental rights and freedoms to all Canadians",
+            "It created the Canadian Senate",
+            "It established the bilingual status of Canada"
+        ],
+        "correct": "b",
+        "explanation": "The Canadian Charter of Rights and Freedoms guarantees fundamental rights and freedoms to all Canadians."
+    },
+    {
+        "question": "What significant social change occurred in Canada in the 1960s regarding gender equality?",
+        "options": [
+            "Women gained the right to vote",
+            "Women began to enter the professional workforce in greater numbers",
+            "Women were allowed to serve in the military",
+            "Women gained the right to own property"
+        ],
+        "correct": "b",
+        "explanation": "In the 1960s a growing number of women entered the professional workforce reflecting changing social values."
+    },
+    {
+        "question": "Which Canadian institution is internationally renowned for its performances combining circus arts and street entertainment?",
+        "options": [
+            "Royal Winnipeg Ballet",
+            "National Ballet of Canada",
+            "Cirque du Soleil",
+            "Stratford Festival"
+        ],
+        "correct": "c",
+        "explanation": "Cirque du Soleil is internationally renowned for its performances combining circus arts and street entertainment."
+    },
+    {
+        "question": "What is Canada's financial capital?",
+        "options": [
+            "Montreal",
+            "Vancouver",
+            "Toronto",
+            "Ottawa"
+        ],
+        "correct": "c",
+        "explanation": "Toronto is considered Canada's financial capital."
+    },
+    {
+        "question": "What year did Canada join the United Nations?",
+        "options": [
+            "1945",
+            "1950",
+            "1960",
+            "1970"
+        ],
+        "correct": "a",
+        "explanation": "Canada joined the United Nations in 1945 shortly after its creation."
+    },
+    {
+        "question": "What was the impact of the General Agreement on Tariffs and Trade (GATT) on Canada?",
+        "options": [
+            "It restricted Canada's trade policies",
+            "It opened up the world's restrictive trading policies benefiting Canada's economy",
+            "It created a common market for North America",
+            "It established Canada's domestic trade policies"
+        ],
+        "correct": "b",
+        "explanation": "The General Agreement on Tariffs and Trade (GATT) opened up the world's restrictive trading policies benefiting Canada's economy."
+    },
+    {
+        "question": "Which Canadian filmmaker is known for popular films in Quebec and has won international awards?",
+        "options": [
+            "James Cameron",
+            "Denys Arcand",
+            "David Cronenberg",
+            "Atom Egoyan"
+        ],
+        "correct": "b",
+        "explanation": "Denys Arcand is a Canadian filmmaker known for popular films in Quebec and has won international awards."
+    },
+    {
+        "question": "Who was the first Canadian woman in space?",
+        "options": [
+            "Julie Payette",
+            "Roberta Bondar",
+            "Chris Hadfield",
+            "Marc Garneau"
+        ],
+        "correct": "b",
+        "explanation": "Roberta Bondar was the first Canadian woman in space flying on the Space Shuttle Discovery in 1992."
+    },
+    {
+        "question": "What is the role of the North Atlantic Treaty Organization (NATO)?",
+        "options": [
+            "To promote economic development in North America",
+            "To provide a mutual defense alliance among member countries",
+            "To regulate trade policies between North Atlantic countries",
+            "To promote cultural exchange among member nations"
+        ],
+        "correct": "b",
+        "explanation": "The North Atlantic Treaty Organization (NATO) provides a mutual defense alliance among member countries."
+    },
+    {
+        "question": "What year was the Official Languages Act passed?",
+        "options": [
+            "1959",
+            "1969",
+            "1979",
+            "1989"
+        ],
+        "correct": "b",
+        "explanation": "The Official Languages Act which guarantees French and English services in the federal government across Canada was passed in 1969."
+    },
+    {
+        "question": "Which Canadian province hosted Expo 67 marking Canada's centennial?",
+        "options": [
+            "Ontario",
+            "Quebec",
+            "British Columbia",
+            "Alberta"
+        ],
+        "correct": "b",
+        "explanation": "Quebec hosted Expo 67 in Montreal marking Canada's centennial in 1967."
+    },
+    {
+        "question": "What is the significance of the War Measures Act invoked during the October Crisis of 1970?",
+        "options": [
+            "It declared war on another country",
+            "It granted emergency powers to the government to deal with the FLQ crisis",
+            "It provided financial assistance to war veterans",
+            "It established new immigration policies"
+        ],
+        "correct": "b",
+        "explanation": "The War Measures Act was invoked during the October Crisis of 1970 granting emergency powers to the government to deal with the FLQ crisis."
+    },
+    {
+        "question": "Which Canadian writer won the Nobel Prize in Literature?",
+        "options": [
+            "Margaret Atwood",
+            "Alice Munro",
+            "Michael Ondaatje",
+            "Mordecai Richler"
+        ],
+        "correct": "b",
+        "explanation": "Alice Munro won the Nobel Prize in Literature in 2013 becoming the first Canadian woman to receive this honor."
+    },
+    {
+        "question": "What was the significance of the 1980 referendum in Quebec?",
+        "options": [
+            "It granted independence to Quebec",
+            "It was the first referendum on Quebec sovereignty and was defeated",
+            "It established Quebec as a bilingual province",
+            "It led to the patriation of the Canadian Constitution"
+        ],
+        "correct": "b",
+        "explanation": "The 1980 referendum in Quebec was the first referendum on Quebec sovereignty and was defeated."
+    },
+    {
+        "question": "What does multiculturalism mean in the Canadian context?",
+        "options": [
+            "The integration of all cultures into one dominant culture",
+            "The celebration and respect of diverse cultural backgrounds",
+            "The restriction of immigration to preserve national identity",
+            "The preference for European cultural practices"
+        ],
+        "correct": "b",
+        "explanation": "Multiculturalism in Canada signifies the celebration and respect of diverse cultural backgrounds recognizing the contributions of various ethnic groups to Canadian society."
+    },
+    {
+        "question": "What was the significance of the 1982 Constitution Act?",
+        "options": [
+            "It abolished the monarchy in Canada",
+            "It established the Canadian Charter of Rights and Freedoms and patriated the Constitution from Britain",
+            "It created the province of Manitoba",
+            "It granted full independence to Canada from the United States"
+        ],
+        "correct": "b",
+        "explanation": "The 1982 Constitution Act established the Canadian Charter of Rights and Freedoms and patriated the Constitution from Britain giving Canada full control over its Constitution."
+    },
+    {
+        "question": "What was the purpose of the Canadian Pension Plan introduced in 1965?",
+        "options": [
+            "To provide universal healthcare",
+            "To offer financial support to retired Canadians",
+            "To fund educational programs",
+            "To promote infrastructure development"
+        ],
+        "correct": "b",
+        "explanation": "The Canadian Pension Plan introduced in 1965 provides financial support to retired Canadians."
+    },
+    {
+        "question": "What event caused significant Japanese-Canadian displacement during WWII?",
+        "options": [
+            "The attack on Pearl Harbor",
+            "The Battle of Britain",
+            "The internment policy by the Canadian government",
+            "The bombing of Hiroshima"
+        ],
+        "correct": "c",
+        "explanation": "During WWII the Canadian government implemented an internment policy displacing Japanese-Canadians and confiscating their property due to fears of espionage and sabotage."
+    },
+    {
+        "question": "What year did Canada introduce employment insurance?",
+        "options": [
+            "1927",
+            "1940",
+            "1951",
+            "1965"
+        ],
+        "correct": "b",
+        "explanation": "Employment insurance (formerly called unemployment insurance) was introduced in Canada in 1940."
+    }
+]

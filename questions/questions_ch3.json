@@ -1,24 +1,387 @@
 [
     {
-        "question": "What are three responsibilities of citizenship?",
+        "question": "Who are the founding peoples of Canada?",
         "options": [
-            "Being loyal to Canada, recycling newspapers, serving in the navy, army, or air force.",
-            "Obeying the law, taking responsibility for oneself and one’s family, serving on a jury.",
-            "Learning both official languages, voting in elections, belonging to a union.",
-            "Buying Canadian products, owning your own business, using less water."
+            "The British, the French, and the Métis",
+            "The First Nations, the French, and the British",
+            "The Vikings, the British, and the French",
+            "The Inuit, the Métis, and the First Nations"
         ],
         "correct": "b",
-        "explanation": "The responsibilities of Canadian citizenship include obeying the law, taking responsibility for oneself and one’s family, and serving on a jury."
+        "explanation": "The founding peoples of Canada are recognized as the First Nations, the French, and the British who played crucial roles in the early development and history of Canada."
     },
     {
-        "question": "What is the meaning of the Remembrance Day poppy?",
+        "question": "What does the term 'Aboriginal peoples' refer to in Canada?",
         "options": [
-            "To remember our Sovereign, Queen Elizabeth II.",
-            "To celebrate Confederation.",
-            "To honour prime ministers who have died.",
-            "To remember the sacrifice of Canadians who have served or died in wars up to the present day."
+            "Only the Inuit people",
+            "The Métis, Inuit, and First Nations",
+            "Only the First Nations",
+            "Only the Métis people"
+        ],
+        "correct": "b",
+        "explanation": "'Aboriginal peoples' is a collective term referring to the Métis, Inuit, and First Nations peoples of Canada."
+    },
+    {
+        "question": "Which document first guaranteed territorial rights to Aboriginal peoples in Canada?",
+        "options": [
+            "The Canadian Charter of Rights and Freedoms",
+            "The Royal Proclamation of 1763",
+            "The British North America Act",
+            "The Constitution Act of 1982"
+        ],
+        "correct": "b",
+        "explanation": "The Royal Proclamation of 1763 by King George III guaranteed territorial rights to Aboriginal peoples and established the basis for negotiating treaties with the newcomers."
+    },
+    {
+        "question": "What are the three distinct groups referred to as 'Aboriginal peoples' in Canada?",
+        "options": [
+            "First Nations, Inuit, and Métis",
+            "First Nations, Vikings, and Métis",
+            "Inuit, Métis, and Europeans",
+            "First Nations, French, and British"
+        ],
+        "correct": "a",
+        "explanation": "The term 'Aboriginal peoples' in Canada includes First Nations, Inuit, and Métis groups."
+    },
+    {
+        "question": "What does the word 'Inuit' mean?",
+        "options": [
+            "The land",
+            "The people",
+            "The hunters",
+            "The north"
+        ],
+        "correct": "b",
+        "explanation": "The word 'Inuit' means 'the people' in the Inuktitut language."
+    },
+    {
+        "question": "Where do the majority of Métis people live?",
+        "options": [
+            "The Atlantic provinces",
+            "The Prairie provinces",
+            "Northern Canada",
+            "British Columbia"
+        ],
+        "correct": "b",
+        "explanation": "The majority of Métis people live in the Prairie provinces."
+    },
+    {
+        "question": "What languages define the day-to-day reality of most Canadians?",
+        "options": [
+            "English and French",
+            "English and Spanish",
+            "French and Spanish",
+            "English and German"
+        ],
+        "correct": "a",
+        "explanation": "English and French are the two official languages of Canada and define the day-to-day reality for most Canadians."
+    },
+    {
+        "question": "How many Anglophones are there in Canada?",
+        "options": [
+            "5 million",
+            "7 million",
+            "18 million",
+            "25 million"
+        ],
+        "correct": "c",
+        "explanation": "There are 18 million Anglophones or people who speak English as a first language in Canada."
+    },
+    {
+        "question": "What percentage of Canadians have French as their first language?",
+        "options": [
+            "20%",
+            "30%",
+            "50%",
+            "10%"
+        ],
+        "correct": "a",
+        "explanation": "About 20% of Canadians have French as their first language."
+    },
+    {
+        "question": "What is the significance of the British North America Act of 1867?",
+        "options": [
+            "It established the Royal Canadian Mounted Police",
+            "It granted independence to Canada",
+            "It created the Dominion of Canada",
+            "It established the Canadian Charter of Rights and Freedoms"
+        ],
+        "correct": "c",
+        "explanation": "The British North America Act of 1867 created the Dominion of Canada and established its initial framework of government."
+    },
+    {
+        "question": "Which province has the largest population of Francophones in Canada?",
+        "options": [
+            "Ontario",
+            "Quebec",
+            "New Brunswick",
+            "Manitoba"
+        ],
+        "correct": "b",
+        "explanation": "Quebec has the largest population of Francophones in Canada."
+    },
+    {
+        "question": "What are the official languages of Canada?",
+        "options": [
+            "English and Spanish",
+            "English and German",
+            "French and Spanish",
+            "English and French"
         ],
         "correct": "d",
-        "explanation": "The Remembrance Day poppy is a symbol of remembrance for those who have served and died in military conflicts, including World Wars I and II, the Korean War, and more recent conflicts."
+        "explanation": "The official languages of Canada are English and French."
+    },
+    {
+        "question": "What is the primary language of instruction in most schools in Quebec?",
+        "options": [
+            "English",
+            "Spanish",
+            "French",
+            "German"
+        ],
+        "correct": "c",
+        "explanation": "The primary language of instruction in most schools in Quebec is French."
+    },
+    {
+        "question": "Who are the Acadians?",
+        "options": [
+            "Descendants of French colonists who settled in the Maritime provinces",
+            "Descendants of British settlers in Ontario",
+            "Inuit people in Northern Canada",
+            "Métis people in the Prairie provinces"
+        ],
+        "correct": "a",
+        "explanation": "The Acadians are descendants of French colonists who settled in the Maritime provinces."
+    },
+    {
+        "question": "What is a significant event in the history of the Acadians?",
+        "options": [
+            "The Great Migration",
+            "The Acadian Expulsion (Le Grand Dérangement)",
+            "The Confederation of Canada",
+            "The War of 1812"
+        ],
+        "correct": "b",
+        "explanation": "The Acadian Expulsion, also known as Le Grand Dérangement, was a significant event in the history of the Acadians where many were forcibly removed from their homeland by the British."
+    },
+    {
+        "question": "What is the significance of the Quiet Revolution?",
+        "options": [
+            "It was a period of economic recession in Canada",
+            "It was a period of rapid change in Quebec society during the 1960s",
+            "It was a war between Canada and the United States",
+            "It was a time of great peace and stability in Canada"
+        ],
+        "correct": "b",
+        "explanation": "The Quiet Revolution was a period of rapid social, economic, and political change in Quebec during the 1960s."
+    },
+    {
+        "question": "What is the importance of the Official Languages Act?",
+        "options": [
+            "It made English the only official language of Canada",
+            "It established French as the only official language of Canada",
+            "It recognized English and French as the official languages of Canada",
+            "It promoted the use of Indigenous languages"
+        ],
+        "correct": "c",
+        "explanation": "The Official Languages Act recognized English and French as the official languages of Canada and required federal institutions to provide services in both languages."
+    },
+    {
+        "question": "What is the population of Anglophones in Quebec?",
+        "options": [
+            "1 million",
+            "2 million",
+            "500,000",
+            "3 million"
+        ],
+        "correct": "a",
+        "explanation": "There are about 1 million Anglophones or people who speak English as a first language in Quebec."
+    },
+    {
+        "question": "Which phrase is a key part of Canada’s original constitutional document?",
+        "options": [
+            "Life, Liberty, and the Pursuit of Happiness",
+            "Peace, Order, and Good Government",
+            "Freedom, Equality, and Justice for All",
+            "Unity, Strength, and Prosperity"
+        ],
+        "correct": "b",
+        "explanation": "'Peace, Order, and Good Government' is a key phrase in Canada’s original constitutional document, the British North America Act of 1867."
+    },
+    {
+        "question": "Who is recognized as the first Governor General of Canada?",
+        "options": [
+            "Lord Elgin",
+            "Sir John A. Macdonald",
+            "Lord Monck",
+            "William Lyon Mackenzie King"
+        ],
+        "correct": "c",
+        "explanation": "Lord Monck is recognized as the first Governor General of Canada."
+    },
+    {
+        "question": "What does the term 'Anglophone' refer to?",
+        "options": [
+            "A person who speaks French as a first language",
+            "A person who speaks English as a first language",
+            "A person who speaks both English and French",
+            "A person who speaks an Indigenous language"
+        ],
+        "correct": "b",
+        "explanation": "The term 'Anglophone' refers to a person who speaks English as a first language."
+    },
+    {
+        "question": "What does the term 'Francophone' refer to?",
+        "options": [
+            "A person who speaks English as a first language",
+            "A person who speaks French as a first language",
+            "A person who speaks an Indigenous language",
+            "A person who speaks Spanish as a first language"
+        ],
+        "correct": "b",
+        "explanation": "The term 'Francophone' refers to a person who speaks French as a first language."
+    },
+    {
+        "question": "Who are the Québécois?",
+        "options": [
+            "Indigenous people living in Quebec",
+            "Residents of Quebec of any ethnic background",
+            "French-speaking descendants of French settlers in Quebec",
+            "English-speaking residents of Quebec"
+        ],
+        "correct": "c",
+        "explanation": "The Québécois are French-speaking descendants of French settlers in Quebec."
+    },
+    {
+        "question": "What is a key cultural event celebrated by the Québécois?",
+        "options": [
+            "Canada Day",
+            "Victoria Day",
+            "Fête Nationale (Saint-Jean-Baptiste Day)",
+            "Thanksgiving"
+        ],
+        "correct": "c",
+        "explanation": "Fête Nationale, or Saint-Jean-Baptiste Day, is a key cultural event celebrated by the Québécois."
+    },
+    {
+        "question": "What is the population of Francophones in Canada?",
+        "options": [
+            "7 million",
+            "10 million",
+            "15 million",
+            "20 million"
+        ],
+        "correct": "a",
+        "explanation": "There are about 7 million Francophones or people who speak French as a first language in Canada."
+    },
+    {
+        "question": "What is the significance of the Confederation Bridge?",
+        "options": [
+            "It is the longest bridge in Canada",
+            "It joins the provinces of New Brunswick and Prince Edward Island",
+            "It is the first bridge built in Canada",
+            "It connects Canada and the United States"
+        ],
+        "correct": "b",
+        "explanation": "The Confederation Bridge joins the provinces of New Brunswick and Prince Edward Island and is the longest bridge in the world to cross water that freezes in winter."
+    },
+    {
+        "question": "What percentage of the Canadian population identifies as Aboriginal?",
+        "options": [
+            "10%",
+            "4%",
+            "30%",
+            "50%"
+        ],
+        "correct": "b",
+        "explanation": "Approximately 4% of the Canadian population identifies as Aboriginal."
+    },
+    {
+        "question": "What is a totem pole?",
+        "options": [
+            "A traditional French monument",
+            "A tall wooden sculpture carved by Indigenous peoples of the Pacific Northwest",
+            "A British colonial structure",
+            "A military fortification"
+        ],
+        "correct": "b",
+        "explanation": "A totem pole is a tall wooden sculpture carved by Indigenous peoples of the Pacific Northwest to represent and commemorate ancestry, histories, people, or events."
+    },
+    {
+        "question": "Which statement best describes Canada's multiculturalism policy?",
+        "options": [
+            "It promotes the assimilation of all cultures into one dominant culture",
+            "It encourages the celebration and preservation of diverse cultural backgrounds",
+            "It focuses solely on preserving Indigenous cultures",
+            "It limits immigration to people from English-speaking countries"
+        ],
+        "correct": "b",
+        "explanation": "Canada's multiculturalism policy encourages the celebration and preservation of diverse cultural backgrounds, recognizing the contributions of various ethnic groups to Canadian society."
+    },
+    {
+        "question": "What was the impact of residential schools on Aboriginal peoples in Canada?",
+        "options": [
+            "They provided high-quality education",
+            "They helped preserve Aboriginal languages and cultures",
+            "They inflicted hardship and aimed to assimilate Aboriginal children into mainstream Canadian culture",
+            "They were voluntary institutions for advanced studies"
+        ],
+        "correct": "c",
+        "explanation": "Residential schools inflicted hardship on Aboriginal children and aimed to assimilate them into mainstream Canadian culture, often prohibiting their languages and cultural practices."
+    },
+    {
+        "question": "Which year did the Canadian government formally apologize for the residential school system?",
+        "options": [
+            "2000",
+            "2008",
+            "2010",
+            "2015"
+        ],
+        "correct": "b",
+        "explanation": "In 2008, the Canadian government formally apologized for the residential school system."
+    },
+    {
+        "question": "What is the main purpose of the Canadian Multiculturalism Act?",
+        "options": [
+            "To promote English and French as the official languages",
+            "To recognize and promote the understanding that multiculturalism reflects the cultural and racial diversity of Canadian society",
+            "To restrict immigration to Canada",
+            "To promote the assimilation of all cultural groups into Canadian society"
+        ],
+        "correct": "b",
+        "explanation": "The Canadian Multiculturalism Act aims to recognize and promote the understanding that multiculturalism reflects the cultural and racial diversity of Canadian society."
+    },
+    {
+        "question": "What does the term 'Michif' refer to?",
+        "options": [
+            "An Indigenous group in Northern Canada",
+            "The language spoken by the Métis people",
+            "A traditional Inuit dish",
+            "A type of French-Canadian music"
+        ],
+        "correct": "b",
+        "explanation": "Michif is the language spoken by the Métis people, reflecting their mixed Aboriginal and European ancestry."
+    },
+    {
+        "question": "Who are the 'Haida'?",
+        "options": [
+            "A French-speaking community in Quebec",
+            "An Indigenous people from the Pacific Northwest Coast",
+            "A group of British settlers in Ontario",
+            "A Métis community in the Prairies"
+        ],
+        "correct": "b",
+        "explanation": "The Haida are an Indigenous people from the Pacific Northwest Coast known for their art, totem poles, and traditional culture."
+    },
+    {
+        "question": "What is the significance of the phrase 'ordered liberty' in the Canadian context?",
+        "options": [
+            "It refers to the rule of law and the structure of Canadian democracy",
+            "It refers to the compulsory military service in Canada",
+            "It signifies the centralization of power in the federal government",
+            "It describes the economic system of Canada"
+        ],
+        "correct": "a",
+        "explanation": "The phrase 'ordered liberty' refers to the rule of law and the structured democracy in Canada, ensuring peace, order, and good government."
     }
 ]

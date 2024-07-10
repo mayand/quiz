@@ -1,0 +1,772 @@
+[
+    {
+        "question": "Who were the first Europeans to reach Canada?",
+        "options": [
+            "The Spanish",
+            "The Vikings from Iceland",
+            "The British",
+            "The French"
+        ],
+        "correct": "b",
+        "explanation": "The Vikings from Iceland were the first Europeans to reach Canada around 1000 years ago and settled in what is now Newfoundland and Labrador."
+    },
+    {
+        "question": "Who was the first European to explore the St. Lawrence River?",
+        "options": [
+            "John Cabot",
+            "Samuel de Champlain",
+            "Jacques Cartier",
+            "Henry Hudson"
+        ],
+        "correct": "c",
+        "explanation": "Jacques Cartier was the first European to explore the St. Lawrence River between 1534 and 1542."
+    },
+    {
+        "question": "What was the significance of the Battle of the Plains of Abraham?",
+        "options": [
+            "It marked the beginning of French colonization in Canada.",
+            "It marked the end of France’s empire in America.",
+            "It was the first battle between the British and Indigenous peoples.",
+            "It was a significant battle in the War of 1812."
+        ],
+        "correct": "b",
+        "explanation": "The Battle of the Plains of Abraham in 1759 marked the end of France’s empire in America with the British defeating the French at Québec City."
+    },
+    {
+        "question": "Who were the United Empire Loyalists?",
+        "options": [
+            "Settlers who supported the American Revolution.",
+            "Settlers who supported the British Crown during the American Revolution.",
+            "French settlers in Canada.",
+            "Indigenous peoples allied with the British."
+        ],
+        "correct": "b",
+        "explanation": "The United Empire Loyalists were settlers who supported the British Crown during the American Revolution and fled to Canada to escape the oppression of the revolution."
+    },
+    {
+        "question": "What did the Quebec Act of 1774 accomplish?",
+        "options": [
+            "It declared Quebec independent from British rule.",
+            "It granted religious freedom and restored French civil law in Quebec.",
+            "It abolished French civil law in Quebec.",
+            "It granted voting rights to all Quebec inhabitants."
+        ],
+        "correct": "b",
+        "explanation": "The Quebec Act of 1774 granted religious freedom for Catholics and restored French civil law while maintaining British criminal law."
+    },
+    {
+        "question": "What was the significance of the War of 1812 for Canada?",
+        "options": [
+            "It led to the end of British rule in Canada.",
+            "It fostered a sense of Canadian identity and independence.",
+            "It resulted in significant territorial losses for Canada.",
+            "It was a civil war between French and English settlers."
+        ],
+        "correct": "b",
+        "explanation": "The War of 1812 helped foster a sense of Canadian identity and independence as Canadians including French-speaking and Indigenous allies defended their territory against American invasions."
+    },
+    {
+        "question": "What did the British North America Act of 1867 establish?",
+        "options": [
+            "The independence of Canada from Britain",
+            "The Confederation of Canada",
+            "The establishment of the Canadian Charter of Rights and Freedoms",
+            "The separation of Quebec from Canada"
+        ],
+        "correct": "b",
+        "explanation": "The British North America Act of 1867 established the Confederation of Canada uniting the provinces of Ontario, Quebec, New Brunswick, and Nova Scotia into a single country."
+    },
+    {
+        "question": "Who is known as the 'Father of Confederation'?",
+        "options": [
+            "John A. Macdonald",
+            "George-Étienne Cartier",
+            "Louis Riel",
+            "Samuel de Champlain"
+        ],
+        "correct": "a",
+        "explanation": "John A. Macdonald is known as the 'Father of Confederation' for his leading role in the creation of Canada and becoming its first Prime Minister."
+    },
+    {
+        "question": "What was the purpose of the Canadian Pacific Railway?",
+        "options": [
+            "To connect Eastern and Western Canada",
+            "To transport goods to the United States",
+            "To connect Canada with Europe",
+            "To facilitate travel within Ontario and Quebec"
+        ],
+        "correct": "a",
+        "explanation": "The Canadian Pacific Railway was built to connect Eastern and Western Canada facilitating the movement of people and goods across the vast country."
+    },
+    {
+        "question": "Who were the Métis?",
+        "options": [
+            "A French-speaking group in Quebec",
+            "People of mixed Indigenous and European ancestry",
+            "British settlers in Ontario",
+            "Scandinavian immigrants in the Prairies"
+        ],
+        "correct": "b",
+        "explanation": "The Métis are people of mixed Indigenous and European ancestry playing a significant role in Canadian history especially in the Red River and Northwest regions."
+    },
+    {
+        "question": "Who led the Métis in the Red River Rebellion?",
+        "options": [
+            "John A. Macdonald",
+            "Louis Riel",
+            "George-Étienne Cartier",
+            "Samuel de Champlain"
+        ],
+        "correct": "b",
+        "explanation": "Louis Riel led the Métis in the Red River Rebellion which was a resistance movement against the Canadian government's plans to take control of the Red River Colony."
+    },
+    {
+        "question": "What was the result of the Red River Rebellion?",
+        "options": [
+            "The defeat of the Métis and the execution of Louis Riel",
+            "The establishment of the province of Manitoba",
+            "The independence of the Red River Colony",
+            "The annexation of the Red River Colony by the United States"
+        ],
+        "correct": "b",
+        "explanation": "The Red River Rebellion led to the establishment of the province of Manitoba in 1870 with promises of land and rights for the Métis."
+    },
+    {
+        "question": "What did the Indian Act of 1876 establish?",
+        "options": [
+            "The right to vote for Indigenous peoples",
+            "The framework for the administration of Indigenous peoples and their lands",
+            "The prohibition of Indigenous cultural practices",
+            "The independence of Indigenous nations"
+        ],
+        "correct": "b",
+        "explanation": "The Indian Act of 1876 established the framework for the administration of Indigenous peoples and their lands affecting many aspects of their lives."
+    },
+    {
+        "question": "Who was responsible for the discovery of insulin?",
+        "options": [
+            "Alexander Graham Bell",
+            "Sir Frederick Banting and Charles Best",
+            "John McCrae",
+            "Terry Fox"
+        ],
+        "correct": "b",
+        "explanation": "Sir Frederick Banting and Charles Best were responsible for the discovery of insulin in 1921 a significant medical breakthrough for the treatment of diabetes."
+    },
+    {
+        "question": "What was the impact of the First World War on Canada?",
+        "options": [
+            "Minimal involvement with few casualties",
+            "Significant contribution and heavy casualties",
+            "The start of Canada’s independence from Britain",
+            "The end of French influence in Canada"
+        ],
+        "correct": "b",
+        "explanation": "Canada made a significant contribution to the First World War with over 60,000 Canadians losing their lives and many more wounded marking a significant moment in the country's history."
+    },
+    {
+        "question": "What was the significance of Vimy Ridge for Canada?",
+        "options": [
+            "It was a minor skirmish with little impact.",
+            "It was the first battle fought by Canadians.",
+            "It was a defining moment showcasing Canadian military skill and unity.",
+            "It marked the end of the First World War."
+        ],
+        "correct": "c",
+        "explanation": "The Battle of Vimy Ridge in 1917 was a defining moment for Canada showcasing the skill, bravery, and unity of Canadian forces."
+    },
+    {
+        "question": "What was the Statute of Westminster 1931?",
+        "options": [
+            "The law that established the Canadian Constitution",
+            "The law that granted full legislative independence to Canada from Britain",
+            "The law that created the Canadian Charter of Rights and Freedoms",
+            "The law that established the provinces of Alberta and Saskatchewan"
+        ],
+        "correct": "b",
+        "explanation": "The Statute of Westminster 1931 granted full legislative independence to Canada from Britain marking a significant step towards full sovereignty."
+    },
+    {
+        "question": "What event caused significant Japanese-Canadian displacement during WWII?",
+        "options": [
+            "The attack on Pearl Harbor",
+            "The Battle of Britain",
+            "The internment policy by the Canadian government",
+            "The bombing of Hiroshima"
+        ],
+        "correct": "c",
+        "explanation": "During WWII the Canadian government implemented an internment policy displacing Japanese-Canadians and confiscating their property due to fears of espionage and sabotage."
+    },
+    {
+        "question": "What was Canada's role in the Korean War?",
+        "options": [
+            "Neutral observer",
+            "Primary belligerent against North Korea",
+            "Contributor to the United Nations forces defending South Korea",
+            "Supporter of North Korea"
+        ],
+        "correct": "c",
+        "explanation": "Canada contributed to the United Nations forces defending South Korea during the Korean War with 500 Canadians killed and 1000 wounded."
+    },
+    {
+        "question": "What was the Quiet Revolution in Quebec?",
+        "options": [
+            "A peaceful transition of power in the 1920s",
+            "A period of rapid social and political change in the 1960s",
+            "A rebellion against British rule in the 1800s",
+            "The establishment of Quebec as an independent country"
+        ],
+        "correct": "b",
+        "explanation": "The Quiet Revolution was a period of rapid social and political change in Quebec during the 1960s characterized by the modernization and secularization of society."
+    },
+    {
+        "question": "What is La Francophonie?",
+        "options": [
+            "A festival celebrating French culture",
+            "An international organization of French-speaking countries",
+            "A political party in Quebec",
+            "A type of traditional Quebecois music"
+        ],
+        "correct": "b",
+        "explanation": "La Francophonie is an international organization of French-speaking countries founded in part by Canada in 1970."
+    },
+    {
+        "question": "What significant change occurred in Canadian immigration policy in the 1960s?",
+        "options": [
+            "Complete halt of immigration",
+            "Introduction of a points-based system",
+            "Preference given to European immigrants",
+            "Exclusive focus on family reunification"
+        ],
+        "correct": "b",
+        "explanation": "In the 1960s Canada introduced a points-based immigration system that assessed applicants based on skills education and other factors rather than nationality."
+    },
+    {
+        "question": "Who is Terry Fox and why is he significant in Canadian history?",
+        "options": [
+            "A famous Canadian actor",
+            "A politician who introduced universal healthcare",
+            "An athlete who attempted to run across Canada to raise money for cancer research",
+            "The first Canadian astronaut"
+        ],
+        "correct": "c",
+        "explanation": "Terry Fox is a Canadian hero who attempted to run across Canada in the Marathon of Hope to raise money for cancer research after losing a leg to cancer."
+    },
+    {
+        "question": "What does the term 'multiculturalism' signify in the Canadian context?",
+        "options": [
+            "The integration of all cultures into one dominant culture",
+            "The celebration and respect of diverse cultural backgrounds",
+            "The restriction of immigration to preserve national identity",
+            "The preference for European cultural practices"
+        ],
+        "correct": "b",
+        "explanation": "Multiculturalism in Canada signifies the celebration and respect of diverse cultural backgrounds recognizing the contributions of various ethnic groups to Canadian society."
+    },
+    {
+        "question": "What was the impact of the Official Languages Act of 1969?",
+        "options": [
+            "It made English the only official language.",
+            "It made French the only official language.",
+            "It ensured that English and French were recognized as official languages of Canada.",
+            "It promoted the use of Indigenous languages."
+        ],
+        "correct": "c",
+        "explanation": "The Official Languages Act of 1969 ensured that English and French were recognized as official languages of Canada and required federal institutions to provide services in both languages."
+    },
+    {
+        "question": "What does the Canadian Charter of Rights and Freedoms guarantee?",
+        "options": [
+            "The right to free education",
+            "The right to bear arms",
+            "Fundamental freedoms democratic rights and legal rights among others",
+            "The right to own property"
+        ],
+        "correct": "c",
+        "explanation": "The Canadian Charter of Rights and Freedoms guarantees fundamental freedoms democratic rights mobility rights legal rights equality rights and language rights."
+    },
+    {
+        "question": "What was the purpose of the Royal Commission on Bilingualism and Biculturalism?",
+        "options": [
+            "To investigate and promote the use of Indigenous languages",
+            "To study and recommend measures to ensure the coexistence of English and French cultures in Canada",
+            "To propose the separation of Quebec from Canada",
+            "To establish a new official language policy excluding French"
+        ],
+        "correct": "b",
+        "explanation": "The Royal Commission on Bilingualism and Biculturalism was established to study and recommend measures to ensure the coexistence and mutual respect of English and French cultures in Canada."
+    },
+    {
+        "question": "What was the significance of the Meech Lake Accord?",
+        "options": [
+            "It granted independence to Quebec.",
+            "It attempted to gain Quebec's consent to the revised Canadian Constitution.",
+            "It abolished the Official Languages Act.",
+            "It established the Canadian Charter of Rights and Freedoms."
+        ],
+        "correct": "b",
+        "explanation": "The Meech Lake Accord was an attempt to gain Quebec's consent to the revised Canadian Constitution by recognizing Quebec as a 'distinct society' and addressing other constitutional issues."
+    },
+    {
+        "question": "What year was the Canadian flag adopted?",
+        "options": [
+            "1867",
+            "1931",
+            "1965",
+            "1982"
+        ],
+        "correct": "c",
+        "explanation": "The current Canadian flag featuring the maple leaf was adopted in 1965."
+    },
+    {
+        "question": "Who is known for the discovery of the St. Lawrence River and claiming Canada for France?",
+        "options": [
+            "John Cabot",
+            "Samuel de Champlain",
+            "Jacques Cartier",
+            "Henry Hudson"
+        ],
+        "correct": "c",
+        "explanation": "Jacques Cartier is known for discovering the St. Lawrence River and claiming Canada for France during his voyages in the 16th century."
+    },
+    {
+        "question": "What was the primary purpose of the Hudson's Bay Company?",
+        "options": [
+            "To establish permanent settlements",
+            "To engage in the fur trade",
+            "To explore the Arctic",
+            "To create new agricultural areas"
+        ],
+        "correct": "b",
+        "explanation": "The Hudson's Bay Company was primarily established to engage in the fur trade becoming one of the oldest commercial corporations in the world."
+    },
+    {
+        "question": "What event led to the creation of the province of Manitoba?",
+        "options": [
+            "The War of 1812",
+            "The Red River Rebellion",
+            "The signing of the Meech Lake Accord",
+            "The Quiet Revolution"
+        ],
+        "correct": "b",
+        "explanation": "The Red River Rebellion led by Louis Riel and the Métis led to the creation of the province of Manitoba in 1870."
+    },
+    {
+        "question": "Which group of people came to Canada to escape oppression in Hungary in 1956?",
+        "options": [
+            "Vietnamese refugees",
+            "Hungarian refugees",
+            "Japanese-Canadians",
+            "Soviet immigrants"
+        ],
+        "correct": "b",
+        "explanation": "Canada welcomed thousands of Hungarian refugees escaping Soviet tyranny after the Hungarian Revolution in 1956."
+    },
+    {
+        "question": "What does 'Vimy Ridge' represent in Canadian history?",
+        "options": [
+            "A failed Canadian battle",
+            "A major victory and a symbol of Canadian national pride",
+            "The signing place of the Treaty of Paris",
+            "A location of an important peace conference"
+        ],
+        "correct": "b",
+        "explanation": "Vimy Ridge represents a major victory and a symbol of Canadian national pride where Canadian forces successfully captured the ridge during WWI in 1917."
+    },
+    {
+        "question": "What was the primary economic activity of the early French settlers in Canada?",
+        "options": [
+            "Mining",
+            "Agriculture",
+            "Fur trading",
+            "Fishing"
+        ],
+        "correct": "c",
+        "explanation": "The primary economic activity of the early French settlers in Canada was fur trading which played a crucial role in the economy and expansion of New France."
+    },
+    {
+        "question": "Who was the first European to explore the eastern coast of Canada?",
+        "options": [
+            "John Cabot",
+            "Jacques Cartier",
+            "Samuel de Champlain",
+            "Henry Hudson"
+        ],
+        "correct": "a",
+        "explanation": "John Cabot an Italian navigator sailing for England was the first European to explore the eastern coast of Canada in 1497."
+    },
+    {
+        "question": "What was the significance of the Treaty of Paris (1763)?",
+        "options": [
+            "It ended the American Revolution",
+            "It ended the Seven Years' War",
+            "It marked the beginning of French colonization in Canada",
+            "It established the Dominion of Canada"
+        ],
+        "correct": "b",
+        "explanation": "The Treaty of Paris (1763) ended the Seven Years' War and resulted in France ceding much of its North American territories to Britain."
+    },
+    {
+        "question": "What was the purpose of the Hudson's Bay Company?",
+        "options": [
+            "To engage in the fur trade",
+            "To establish agricultural settlements",
+            "To convert Indigenous peoples to Christianity",
+            "To explore the Arctic"
+        ],
+        "correct": "a",
+        "explanation": "The Hudson's Bay Company founded in 1670 was established to engage in the fur trade becoming a dominant force in the economy and exploration of Canada."
+    },
+    {
+        "question": "Who were the coureurs des bois?",
+        "options": [
+            "French soldiers defending New France",
+            "Fur traders of French origin who lived among Indigenous peoples",
+            "British merchants trading with the French",
+            "Spanish explorers in Canada"
+        ],
+        "correct": "b",
+        "explanation": "The coureurs des bois were independent French-Canadian fur traders who traveled and lived among Indigenous peoples to trade furs."
+    },
+    {
+        "question": "What was the significance of the Battle of Quebec (1759)?",
+        "options": [
+            "It marked the end of British rule in Canada",
+            "It was a decisive battle in the Seven Years' War",
+            "It established French dominance in North America",
+            "It was a key battle in the American Revolution"
+        ],
+        "correct": "b",
+        "explanation": "The Battle of Quebec in 1759 was a decisive battle in the Seven Years' War resulting in British control over New France."
+    },
+    {
+        "question": "What role did Loyalists play in Canadian history?",
+        "options": [
+            "They were French settlers in Quebec",
+            "They supported the British Crown during the American Revolution and settled in Canada",
+            "They were Indigenous allies of the British",
+            "They were British soldiers stationed in Canada"
+        ],
+        "correct": "b",
+        "explanation": "Loyalists were American colonists who remained loyal to the British Crown during the American Revolution and settled in Canada after the war."
+    },
+    {
+        "question": "What was the significance of the Act of Union (1840)?",
+        "options": [
+            "It granted independence to Canada",
+            "It united Upper and Lower Canada into the Province of Canada",
+            "It established the Canadian Confederation",
+            "It created the Northwest Territories"
+        ],
+        "correct": "b",
+        "explanation": "The Act of Union (1840) united Upper Canada (Ontario) and Lower Canada (Quebec) into a single province the Province of Canada."
+    },
+    {
+        "question": "What was the Charlottetown Conference (1864)?",
+        "options": [
+            "A meeting to discuss the end of the War of 1812",
+            "A meeting to negotiate the terms of the Treaty of Paris",
+            "A conference to discuss Canadian Confederation",
+            "A summit to establish the Hudson's Bay Company"
+        ],
+        "correct": "c",
+        "explanation": "The Charlottetown Conference in 1864 was a meeting where leaders from various colonies discussed the idea of Canadian Confederation."
+    },
+    {
+        "question": "When did Canada become a country?",
+        "options": [
+            "1763",
+            "1867",
+            "1901",
+            "1931"
+        ],
+        "correct": "b",
+        "explanation": "Canada became a country on July 1 1867 with the passage of the British North America Act creating the Dominion of Canada."
+    },
+    {
+        "question": "What was the significance of the Statute of Westminster (1931)?",
+        "options": [
+            "It established the Royal Canadian Mounted Police",
+            "It granted full legislative independence to Canada from Britain",
+            "It created the provinces of Alberta and Saskatchewan",
+            "It established the Canadian Charter of Rights and Freedoms"
+        ],
+        "correct": "b",
+        "explanation": "The Statute of Westminster (1931) granted full legislative independence to Canada marking a significant step towards full sovereignty."
+    },
+    {
+        "question": "Who was the first Prime Minister of Canada?",
+        "options": [
+            "Sir Wilfrid Laurier",
+            "John A. Macdonald",
+            "Pierre Trudeau",
+            "Lester B. Pearson"
+        ],
+        "correct": "b",
+        "explanation": "John A. Macdonald was the first Prime Minister of Canada serving from 1867 to 1873 and again from 1878 to 1891."
+    },
+    {
+        "question": "What was the primary purpose of the Canadian Pacific Railway?",
+        "options": [
+            "To connect Canada with the United States",
+            "To facilitate travel within Ontario and Quebec",
+            "To connect Eastern and Western Canada",
+            "To transport goods to Europe"
+        ],
+        "correct": "c",
+        "explanation": "The primary purpose of the Canadian Pacific Railway completed in 1885 was to connect Eastern and Western Canada facilitating the movement of people and goods across the country."
+    },
+    {
+        "question": "Who were the Fathers of Confederation?",
+        "options": [
+            "Leaders who supported British rule in Canada",
+            "Founding members who played a key role in the creation of the Canadian Confederation",
+            "French explorers who settled in Quebec",
+            "Indigenous leaders who signed treaties with the British"
+        ],
+        "correct": "b",
+        "explanation": "The Fathers of Confederation were leaders who played a key role in the negotiations and establishment of the Canadian Confederation in 1867."
+    },
+    {
+        "question": "What was the purpose of the Indian Act of 1876?",
+        "options": [
+            "To grant land to Indigenous peoples",
+            "To assimilate Indigenous peoples into Canadian society",
+            "To protect Indigenous cultural practices",
+            "To establish trade relations with Indigenous nations"
+        ],
+        "correct": "b",
+        "explanation": "The Indian Act of 1876 was designed to assimilate Indigenous peoples into Canadian society and regulate many aspects of their lives."
+    },
+    {
+        "question": "What was the impact of residential schools on Indigenous peoples in Canada?",
+        "options": [
+            "They provided high-quality education",
+            "They helped preserve Indigenous languages and cultures",
+            "They aimed to assimilate Indigenous children and often caused significant harm",
+            "They were voluntary institutions for advanced studies"
+        ],
+        "correct": "c",
+        "explanation": "Residential schools aimed to assimilate Indigenous children into mainstream Canadian society and often caused significant harm including loss of culture and abuse."
+    },
+    {
+        "question": "What is the significance of the discovery of insulin by Sir Frederick Banting and Charles Best?",
+        "options": [
+            "It was the first Canadian scientific discovery",
+            "It provided a cure for diabetes",
+            "It revolutionized the treatment of diabetes",
+            "It was a military invention"
+        ],
+        "correct": "c",
+        "explanation": "The discovery of insulin by Sir Frederick Banting and Charles Best in 1921 revolutionized the treatment of diabetes saving countless lives."
+    },
+    {
+        "question": "What role did Canada play in the First World War?",
+        "options": [
+            "It remained neutral",
+            "It provided financial support only",
+            "It made significant military contributions and suffered heavy casualties",
+            "It fought against the Allies"
+        ],
+        "correct": "c",
+        "explanation": "Canada made significant military contributions in the First World War with over 60000 Canadians losing their lives and many more wounded."
+    },
+    {
+        "question": "What is the significance of Vimy Ridge in Canadian history?",
+        "options": [
+            "It was a minor battle with little impact",
+            "It marked the end of World War I",
+            "It was a defining moment of national pride and military achievement",
+            "It was the site of a major treaty signing"
+        ],
+        "correct": "c",
+        "explanation": "The Battle of Vimy Ridge in 1917 is considered a defining moment in Canadian history showcasing Canadian military skill and unity."
+    },
+    {
+        "question": "What was the impact of the Statute of Westminster on Canada's legal status?",
+        "options": [
+            "It abolished the monarchy in Canada",
+            "It granted Canada full legislative independence from Britain",
+            "It established the Supreme Court of Canada",
+            "It created the provinces of Alberta and Saskatchewan"
+        ],
+        "correct": "b",
+        "explanation": "The Statute of Westminster passed in 1931 granted Canada full legislative independence from Britain allowing it to make its own laws."
+    },
+    {
+        "question": "What was the purpose of the Royal Commission on Bilingualism and Biculturalism?",
+        "options": [
+            "To promote the use of Indigenous languages",
+            "To establish English as the only official language of Canada",
+            "To study and recommend measures to ensure the coexistence of English and French cultures",
+            "To propose the separation of Quebec from Canada"
+        ],
+        "correct": "c",
+        "explanation": "The Royal Commission on Bilingualism and Biculturalism was established in the 1960s to study and recommend measures to ensure the coexistence and mutual respect of English and French cultures in Canada."
+    },
+    {
+        "question": "What was the Quiet Revolution in Quebec?",
+        "options": [
+            "A period of rapid social and political change in the 1960s",
+            "A peaceful transition of power in the 1920s",
+            "A rebellion against British rule in the 1800s",
+            "The establishment of Quebec as an independent country"
+        ],
+        "correct": "a",
+        "explanation": "The Quiet Revolution was a period of rapid social political and economic change in Quebec during the 1960s characterized by the modernization and secularization of society."
+    },
+    {
+        "question": "What was the significance of the Meech Lake Accord?",
+        "options": [
+            "It granted independence to Quebec",
+            "It attempted to gain Quebec's consent to the revised Canadian Constitution",
+            "It abolished the Official Languages Act",
+            "It established the Canadian Charter of Rights and Freedoms"
+        ],
+        "correct": "b",
+        "explanation": "The Meech Lake Accord was an attempt to gain Quebec's consent to the revised Canadian Constitution by recognizing Quebec as a 'distinct society' and addressing other constitutional issues."
+    },
+    {
+        "question": "Who is Terry Fox and why is he significant in Canadian history?",
+        "options": [
+            "A famous Canadian actor",
+            "A politician who introduced universal healthcare",
+            "An athlete who attempted to run across Canada to raise money for cancer research",
+            "The first Canadian astronaut"
+        ],
+        "correct": "c",
+        "explanation": "Terry Fox is a Canadian hero who attempted to run across Canada in the Marathon of Hope to raise money for cancer research after losing a leg to cancer."
+    },
+    {
+        "question": "What does the term 'multiculturalism' signify in the Canadian context?",
+        "options": [
+            "The integration of all cultures into one dominant culture",
+            "The celebration and respect of diverse cultural backgrounds",
+            "The restriction of immigration to preserve national identity",
+            "The preference for European cultural practices"
+        ],
+        "correct": "b",
+        "explanation": "Multiculturalism in Canada signifies the celebration and respect of diverse cultural backgrounds recognizing the contributions of various ethnic groups to Canadian society."
+    },
+    {
+        "question": "What was the impact of the Official Languages Act of 1969?",
+        "options": [
+            "It made English the only official language",
+            "It made French the only official language",
+            "It ensured that English and French were recognized as official languages of Canada",
+            "It promoted the use of Indigenous languages"
+        ],
+        "correct": "c",
+        "explanation": "The Official Languages Act of 1969 ensured that English and French were recognized as official languages of Canada and required federal institutions to provide services in both languages."
+    },
+    {
+        "question": "What does the Canadian Charter of Rights and Freedoms guarantee?",
+        "options": [
+            "The right to free education",
+            "The right to bear arms",
+            "Fundamental freedoms democratic rights and legal rights among others",
+            "The right to own property"
+        ],
+        "correct": "c",
+        "explanation": "The Canadian Charter of Rights and Freedoms guarantees fundamental freedoms democratic rights mobility rights legal rights equality rights and language rights."
+    },
+    {
+        "question": "What year was the Canadian flag adopted?",
+        "options": [
+            "1867",
+            "1931",
+            "1965",
+            "1982"
+        ],
+        "correct": "c",
+        "explanation": "The current Canadian flag featuring the maple leaf was adopted in 1965."
+    },
+    {
+        "question": "Who is known for the discovery of the St. Lawrence River and claiming Canada for France?",
+        "options": [
+            "John Cabot",
+            "Samuel de Champlain",
+            "Jacques Cartier",
+            "Henry Hudson"
+        ],
+        "correct": "c",
+        "explanation": "Jacques Cartier is known for discovering the St. Lawrence River and claiming Canada for France during his voyages in the 16th century."
+    },
+    {
+        "question": "What does the term 'responsible government' mean in Canada?",
+        "options": [
+            "The government is responsible for providing jobs to every citizen",
+            "Ministers of the Crown must have the support of a majority of the elected representatives in order to govern",
+            "Citizens are responsible for electing the government",
+            "The government is responsible for the economic well-being of the country"
+        ],
+        "correct": "b",
+        "explanation": "Responsible government means that Ministers of the Crown must have the support of a majority of the elected representatives in the House of Commons to govern ensuring accountability and democracy."
+    },
+    {
+        "question": "What was the purpose of the Canadian Pacific Railway?",
+        "options": [
+            "To connect Eastern and Western Canada",
+            "To transport goods to the United States",
+            "To connect Canada with Europe",
+            "To facilitate travel within Ontario and Quebec"
+        ],
+        "correct": "a",
+        "explanation": "The Canadian Pacific Railway was built to connect Eastern and Western Canada facilitating the movement of people and goods across the vast country."
+    },
+    {
+        "question": "Who was Louis Riel and what role did he play in Canadian history?",
+        "options": [
+            "A British explorer who mapped the Arctic",
+            "The leader of the Métis during the Red River and North-West Rebellions",
+            "The first Prime Minister of Canada",
+            "An Indigenous chief who signed treaties with the British"
+        ],
+        "correct": "b",
+        "explanation": "Louis Riel was the leader of the Métis during the Red River and North-West Rebellions fighting for the rights of the Métis and Indigenous peoples."
+    },
+    {
+        "question": "What was the impact of the Quiet Revolution in Quebec?",
+        "options": [
+            "It led to the independence of Quebec",
+            "It sparked significant social and political changes in Quebec society",
+            "It resulted in the end of French language education in Quebec",
+            "It was a period of military conflict in Quebec"
+        ],
+        "correct": "b",
+        "explanation": "The Quiet Revolution in the 1960s sparked significant social and political changes in Quebec society including the modernization of the economy and education system."
+    },
+    {
+        "question": "What is the significance of the Royal Proclamation of 1763?",
+        "options": [
+            "It declared Canada's independence from Britain",
+            "It established the framework for governing British colonies in North America",
+            "It ended the War of 1812",
+            "It granted voting rights to all Canadian citizens"
+        ],
+        "correct": "b",
+        "explanation": "The Royal Proclamation of 1763 established the framework for governing British colonies in North America and recognized Indigenous land rights."
+    },
+    {
+        "question": "What was the significance of the 1982 Constitution Act?",
+        "options": [
+            "It abolished the monarchy in Canada",
+            "It established the Canadian Charter of Rights and Freedoms and patriated the Constitution from Britain",
+            "It created the province of Manitoba",
+            "It granted full independence to Canada from the United States"
+        ],
+        "correct": "b",
+        "explanation": "The 1982 Constitution Act established the Canadian Charter of Rights and Freedoms and patriated the Constitution from Britain giving Canada full control over its Constitution."
+    },
+    {
+        "question": "What does the term 'BNA Act' refer to?",
+        "options": [
+            "The British North America Act which created the Dominion of Canada in 1867",
+            "The act that established the Hudson's Bay Company",
+            "The act that granted independence to Canada",
+            "The act that abolished residential schools"
+        ],
+        "correct": "a",
+        "explanation": "The term 'BNA Act' refers to the British North America Act which created the Dominion of Canada on July 1 1867."
+    }
+]
