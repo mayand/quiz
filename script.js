@@ -38,7 +38,6 @@ function displayQuestion(index) {
         label.appendChild(radio);
         label.appendChild(document.createTextNode(` ${String.fromCharCode(97 + i)}) ${option}`));
         form.appendChild(label);
-        form.appendChild(document.createElement('br'));
     });
 
     questionDiv.appendChild(form);

@@ -5,48 +5,60 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 100vh;
     margin: 0;
+    padding: 0;
 }
 
-.quiz-container {
+.quiz-container, .home-container {
     background-color: #fff;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 300px;
+    width: 90%;
+    max-width: 600px;
     margin-top: 50px;
-}
-
-.home-container {
-    margin-top: 50px;
-}
-
-.home-container h1 {
-    margin-bottom: 20px;
-}
-
-.home-container ul {
-    list-style: none;
-    padding: 0;
-}
-
-.home-container ul li {
-    margin: 10px 0;
-}
-
-.home-container ul li a {
-    text-decoration: none;
-    color: #007bff;
-    font-size: 18px;
-}
-
-.home-container ul li a:hover {
-    text-decoration: underline;
+    box-sizing: border-box;
 }
 
 .question {
     margin-bottom: 20px;
+}
+
+.question p {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-size: 1em;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
 }
 
 .feedback {
@@ -63,20 +75,45 @@ body {
 }
 
 .navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 600px;
     margin-top: 20px;
-}
-
-button {
-    padding: 10px 20px;
-    margin: 5px;
 }
 
 .home-link {
     text-decoration: none;
     color: #007bff;
     margin: 20px 0;
+    font-size: 1em;
+    align-self: flex-start;
 }
 
 .home-link:hover {
+    text-decoration: underline;
+}
+
+.home-container h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.home-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.home-container ul li {
+    margin: 10px 0;
+}
+
+.home-container ul li a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.2em;
+}
+
+.home-container ul li a:hover {
     text-decoration: underline;
 }
