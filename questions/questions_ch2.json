@@ -1,0 +1,277 @@
+[
+    {
+        "question": "What are three responsibilities of citizenship?",
+        "options": [
+            "Being loyal to Canada, recycling newspapers, serving in the navy, army, or air force.",
+            "Obeying the law, taking responsibility for oneself and one’s family, serving on a jury.",
+            "Learning both official languages, voting in elections, belonging to a union.",
+            "Buying Canadian products, owning your own business, using less water."
+        ],
+        "correct": "b",
+        "explanation": "The responsibilities of Canadian citizenship include obeying the law, taking responsibility for oneself and one’s family, and serving on a jury."
+    },
+    {
+        "question": "What is the meaning of the Remembrance Day poppy?",
+        "options": [
+            "To remember our Sovereign Queen Elizabeth II.",
+            "To celebrate Confederation.",
+            "To honour prime ministers who have died.",
+            "To remember the sacrifice of Canadians who have served or died in wars up to the present day."
+        ],
+        "correct": "d",
+        "explanation": "The Remembrance Day poppy is a symbol of remembrance for those who have served and died in military conflicts, including World Wars I and II, the Korean War, and more recent conflicts. It is worn to honor their sacrifice and to recognize the importance of peace."
+    },
+    {
+        "question": "How are members of parliament chosen?",
+        "options": [
+            "They are appointed by the United Nations.",
+            "They are chosen by the provincial premiers.",
+            "They are elected by voters in their local constituency (riding).",
+            "They are elected by landowners and police chiefs."
+        ],
+        "correct": "c",
+        "explanation": "Members of Parliament (MPs) in Canada are elected by voters in their local constituencies, known as ridings. Each riding elects one MP to represent them in the House of Commons. This democratic process ensures that the government reflects the will of the people."
+    },
+    {
+        "question": "Name two key documents that contain our rights and freedoms.",
+        "options": [
+            "The Magna Carta and the Charter of Rights and Freedoms.",
+            "The Bill of Rights and the Constitution Act.",
+            "The Charter of Rights and Freedoms and the Canadian Human Rights Act.",
+            "The Constitution Act and the Universal Declaration of Human Rights."
+        ],
+        "correct": "c",
+        "explanation": "The Charter of Rights and Freedoms, part of the Constitution Act 1982, is a cornerstone of Canadian law that outlines fundamental rights and freedoms. The Canadian Human Rights Act protects individuals from discrimination and promotes equality. Both documents are key to understanding the rights and freedoms enjoyed by Canadians."
+    },
+    {
+        "question": "What is meant by the equality of women and men?",
+        "options": [
+            "Women and men must have the same job opportunities.",
+            "Women and men are treated equally under the law.",
+            "Women and men must earn the same salary.",
+            "Women and men must both serve in the military."
+        ],
+        "correct": "b",
+        "explanation": "In Canada, equality under the law means that women and men are entitled to the same rights and protections. This legal equality ensures that gender-based discrimination is prohibited and both genders can enjoy the same opportunities and responsibilities in all aspects of society."
+    },
+    {
+        "question": "Who were the founding peoples of Canada?",
+        "options": [
+            "The Vikings, the British, and the French.",
+            "The British, the French, and the Métis.",
+            "The Inuit, the Métis, and the First Nations.",
+            "The First Nations, the French, and the British."
+        ],
+        "correct": "d",
+        "explanation": "The founding peoples of Canada are recognized as the First Nations, the French, and the British. These groups played crucial roles in the early development and history of Canada, contributing to its cultural and social foundations."
+    },
+    {
+        "question": "What is the highest honour that Canadians can receive?",
+        "options": [
+            "The Order of Canada.",
+            "The Governor General's Award.",
+            "The Prime Minister's Medal.",
+            "The Canadian Medal of Honour."
+        ],
+        "correct": "a",
+        "explanation": "The Order of Canada is the highest civilian honour in Canada, recognizing outstanding achievement, dedication to the community, and service to the nation. It is awarded to individuals who have made significant contributions to Canadian society."
+    },
+    {
+        "question": "What are the four fundamental freedoms that Canadians enjoy?",
+        "options": [
+            "Freedom of employment, freedom of movement, freedom of expression, freedom of education.",
+            "Freedom of religion, freedom of thought, freedom of peaceful assembly, freedom of association.",
+            "Freedom of trade, freedom of press, freedom of speech, freedom of movement.",
+            "Freedom of language, freedom of religion, freedom of work, freedom of association."
+        ],
+        "correct": "b",
+        "explanation": "Canadians enjoy fundamental freedoms, which include freedom of conscience and religion, freedom of thought, belief, opinion and expression (including freedom of speech and of the press), freedom of peaceful assembly, and freedom of association."
+    },
+    {
+        "question": "What does the term \"responsible government\" mean?",
+        "options": [
+            "The government is responsible for providing jobs to every citizen.",
+            "Ministers of the Crown must have the support of a majority of the elected representatives in order to govern.",
+            "Citizens are responsible for electing the government.",
+            "The government is responsible for the economic well-being of the country."
+        ],
+        "correct": "b",
+        "explanation": "Responsible government is a principle that states that ministers of the Crown must have the support of a majority of the elected representatives in the House of Commons in order to govern. This ensures accountability and democracy."
+    },
+    {
+        "question": "What does the Canadian Charter of Rights and Freedoms guarantee to Aboriginal peoples of Canada?",
+        "options": [
+            "The right to vote and run for political office.",
+            "The right to land and resources.",
+            "The recognition and affirmation of existing Aboriginal and treaty rights.",
+            "The right to free education."
+        ],
+        "correct": "c",
+        "explanation": "The Canadian Charter of Rights and Freedoms recognizes and affirms the existing Aboriginal and treaty rights of the First Nations, Inuit, and Métis peoples."
+    },
+    {
+        "question": "What does \"habeas corpus\" mean?",
+        "options": [
+            "The right to free speech.",
+            "The right to challenge unlawful detention by the state.",
+            "The right to a fair trial.",
+            "The right to vote."
+        ],
+        "correct": "b",
+        "explanation": "Habeas corpus is a legal principle that allows individuals to challenge unlawful detention by the state, ensuring that no one is held without just cause."
+    },
+    {
+        "question": "What are some examples of taking responsibility for yourself and your family?",
+        "options": [
+            "Volunteering in the community, buying Canadian products, and learning both official languages.",
+            "Obeying the law, taking care of your family, and getting a job.",
+            "Participating in elections, obeying the law, and recycling.",
+            "Serving on a jury, owning a business, and supporting the military."
+        ],
+        "correct": "b",
+        "explanation": "Taking responsibility for oneself and one’s family involves obeying the law, getting a job, and taking care of family members. These actions reflect the values of self-sufficiency and contribution to society."
+    },
+    {
+        "question": "What does \"multiculturalism\" in Canada emphasize?",
+        "options": [
+            "The integration of all cultures into one Canadian culture.",
+            "The celebration and respect of diverse cultural backgrounds within a unified society.",
+            "The separation of different cultural groups.",
+            "The priority of English and French cultures over others."
+        ],
+        "correct": "b",
+        "explanation": "Multiculturalism in Canada emphasizes the celebration and respect of diverse cultural backgrounds within a unified society. It is a fundamental characteristic of the Canadian heritage and identity."
+    },
+    {
+        "question": "Who can vote in Canadian federal elections?",
+        "options": [
+            "Only Canadian citizens who are 18 years or older.",
+            "All residents of Canada who are 18 years or older.",
+            "Canadian citizens and permanent residents who are 18 years or older.",
+            "Only Canadian citizens who are 21 years or older."
+        ],
+        "correct": "a",
+        "explanation": "In Canadian federal elections, only Canadian citizens who are 18 years or older are entitled to vote."
+    },
+    {
+        "question": "What is the significance of the Oath of Citizenship?",
+        "options": [
+            "It is a pledge to obey all Canadian laws and regulations.",
+            "It is a promise to serve in the Canadian Armed Forces.",
+            "It is a vow to bear true allegiance to the Sovereign of Canada.",
+            "It is a commitment to pay taxes regularly."
+        ],
+        "correct": "c",
+        "explanation": "The Oath of Citizenship is a promise to bear true allegiance to the Sovereign of Canada, representing loyalty to the country and its institutions."
+    },
+    {
+        "question": "Which of the following rights are protected by the Canadian Charter of Rights and Freedoms?",
+        "options": [
+            "The right to own property, the right to work, the right to education.",
+            "Freedom of religion, the right to a fair trial, the right to vote.",
+            "The right to healthcare, freedom of movement, the right to privacy.",
+            "The right to bear arms, freedom of speech, the right to education."
+        ],
+        "correct": "b",
+        "explanation": "The Canadian Charter of Rights and Freedoms protects several fundamental rights including freedom of religion, the right to a fair trial, and the right to vote. These rights ensure the protection of individual liberties and the democratic process."
+    },
+    {
+        "question": "What are mobility rights in Canada?",
+        "options": [
+            "The right to move between provinces without a passport.",
+            "The right to use any means of transportation.",
+            "The right to live and work anywhere in Canada.",
+            "The right to move freely between Canada and the United States."
+        ],
+        "correct": "c",
+        "explanation": "Mobility rights allow Canadians to live and work anywhere in Canada, enter and leave the country freely, and apply for a Canadian passport. This ensures freedom of movement within the country and internationally."
+    },
+    {
+        "question": "What is the purpose of the Canadian Human Rights Act?",
+        "options": [
+            "To promote equal opportunity and protect individuals from discrimination.",
+            "To establish the rights of employers and employees.",
+            "To regulate immigration and citizenship processes.",
+            "To outline the responsibilities of Canadian citizens."
+        ],
+        "correct": "a",
+        "explanation": "The Canadian Human Rights Act aims to ensure equal opportunity and protect individuals from discrimination based on race, national or ethnic origin, color, religion, age, sex, sexual orientation, marital status, family status, disability, and conviction for which a pardon has been granted."
+    },
+    {
+        "question": "What is one way Canadians can demonstrate their responsibility to protect and enjoy our heritage and environment?",
+        "options": [
+            "By traveling frequently within Canada.",
+            "By avoiding the use of modern technology.",
+            "By volunteering at cultural or environmental organizations.",
+            "By investing in Canadian businesses."
+        ],
+        "correct": "c",
+        "explanation": "Canadians can protect and enjoy their heritage and environment by volunteering at cultural or environmental organizations. This involvement helps preserve Canada’s natural and cultural heritage for future generations."
+    },
+    {
+        "question": "What is the significance of serving on a jury in Canada?",
+        "options": [
+            "It is optional and only for legal professionals.",
+            "It is a legal requirement and a civic responsibility.",
+            "It is mandatory for all citizens every year.",
+            "It is a right reserved for those with higher education."
+        ],
+        "correct": "b",
+        "explanation": "Serving on a jury is a legal requirement when called upon and is a civic responsibility that helps ensure the justice system operates fairly and impartially."
+    },
+    {
+        "question": "What does it mean to respect the rights and freedoms of others in Canada?",
+        "options": [
+            "Agreeing with all opinions and actions of others.",
+            "Tolerating and valuing the diverse perspectives and practices of others.",
+            "Converting others to your own beliefs.",
+            "Avoiding interactions with people from different backgrounds."
+        ],
+        "correct": "b",
+        "explanation": "Respecting the rights and freedoms of others means tolerating and valuing the diverse perspectives, practices, and backgrounds of others, which is fundamental in maintaining a harmonious and inclusive society."
+    },
+    {
+        "question": "What does the phrase \"supremacy of God and the rule of law\" in the Canadian Charter of Rights and Freedoms signify?",
+        "options": [
+            "The dominance of religious laws over civil laws.",
+            "The recognition of Canada's religious heritage and the importance of law.",
+            "The mandatory participation in religious activities.",
+            "The separation of church and state."
+        ],
+        "correct": "b",
+        "explanation": "The phrase \"supremacy of God and the rule of law\" acknowledges Canada's religious heritage and emphasizes that laws, rather than arbitrary actions, govern the country, ensuring justice and fairness."
+    },
+    {
+        "question": "Who can help newcomers integrate into Canadian society?",
+        "options": [
+            "Only government officials.",
+            "Canadian citizens through volunteerism.",
+            "Foreign organizations.",
+            "Media and entertainment industries."
+        ],
+        "correct": "b",
+        "explanation": "Canadian citizens can help newcomers integrate into society through volunteerism, providing support and fostering a sense of community and belonging."
+    },
+    {
+        "question": "What is the importance of the Oath of Citizenship in Canada?",
+        "options": [
+            "It is a formality with no real significance.",
+            "It is a pledge of allegiance to the Sovereign and a commitment to Canada.",
+            "It is a promise to abide by all international laws.",
+            "It is a declaration of one's financial status."
+        ],
+        "correct": "b",
+        "explanation": "The Oath of Citizenship is a solemn promise to bear true allegiance to the Sovereign of Canada and faithfully observe the laws and fulfill the duties of a Canadian citizen, symbolizing loyalty and commitment to the country."
+    },
+    {
+        "question": "Which of the following is an example of defending Canada?",
+        "options": [
+            "Only serving in the Canadian Armed Forces.",
+            "Only participating in political campaigns.",
+            "Serving in the Canadian Armed Forces, Coast Guard, or emergency services.",
+            "Working exclusively in government jobs."
+        ],
+        "correct": "c",
+        "explanation": "Defending Canada can include serving in the Canadian Armed Forces, Coast Guard, or emergency services such as the police force or fire department, contributing to the protection and safety of the nation."
+    }
+]
