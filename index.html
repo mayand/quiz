@@ -3,12 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz Home</title>
+    <title>Quiz and Notes</title>
     <link rel="stylesheet" href="styles.css">
+    <script>
+        function openTab(evt, tabName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(tabName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+    </script>
 </head>
 <body>
-    <div class="home-container">
-        <h1>Select a Chapter</h1>
+
+    <div class="tab">
+        <button class="tablinks" onclick="openTab(event, 'Quiz')">Quiz</button>
+        <button class="tablinks" onclick="openTab(event, 'Notes')">Notes</button>
+    </div>
+
+    <div id="Quiz" class="tabcontent">
+        <h3>Quiz</h3>
         <ul>
             <li><a href="chapter.html?chapter=2">Chapter 2</a></li>
             <li><a href="chapter.html?chapter=3">Chapter 3</a></li>
@@ -22,6 +43,13 @@
             <li><a href="chapter.html?chapter=11">Chapter 11</a></li>
         </ul>
     </div>
+
+    <div id="Notes" class="tabcontent">
+        <h3>Notes</h3>
+        <ul id="notes-list"></ul>
+        <div id="notes-container"></div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>

@@ -1,0 +1,13 @@
+[
+    {
+        "question": "What major economic discovery in 1947 significantly impacted Canada's energy industry?",
+        "options": [
+            "Gold in Yukon",
+            "Diamonds in Northwest Territories",
+            "Oil in Alberta",
+            "Natural gas in British Columbia"
+        ],
+        "correct": "c",
+        "explanation": "The discovery of oil in Alberta in 1947 began Canada's modern energy industry."
+    }
+]
