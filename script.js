@@ -193,31 +193,26 @@ function displayNotes(chapterIndex) {
             chapterTitle.textContent = chapter.ChapterTitle;
             chapterDiv.appendChild(chapterTitle);
 
+            const sectionList = document.createElement('ul'); // Create a list for sections
             chapter.Sections.forEach(section => {
-                const sectionDiv = document.createElement('div');
-                sectionDiv.classList.add('section');
+                const sectionItem = document.createElement('li'); // List item for section
+                sectionItem.classList.add('section');
+                sectionItem.textContent = section.SectionTitle;
 
-                const sectionTitle = document.createElement('h5');
-                sectionTitle.textContent = section.SectionTitle;
-                sectionDiv.appendChild(sectionTitle);
-
-                const subsectionList = document.createElement('ul');
+                const subsectionList = document.createElement('ul'); // Create a list for subsections
                 section.Subsections.forEach(subsection => {
-                    const subsectionItem = document.createElement('li');
+                    const subsectionItem = document.createElement('li'); // List item for subsection
                     subsectionItem.classList.add('subsection');
-                    
-                    const subsectionTitle = document.createElement('span');
-                    subsectionTitle.textContent = subsection.SubsectionTitle;
-                    subsectionItem.appendChild(subsectionTitle);
+                    subsectionItem.textContent = subsection.SubsectionTitle;
 
-                    const contentList = document.createElement('ul');
                     if (Array.isArray(subsection.Content)) {
+                        const contentList = document.createElement('ul'); // Create a list for content
                         subsection.Content.forEach(content => {
-                            const contentItem = document.createElement('li');
+                            const contentItem = document.createElement('li'); // List item for content
                             contentItem.classList.add('content');
 
                             const contentTitle = document.createElement('strong');
-                            contentTitle.textContent = content.Title;
+                            contentTitle.textContent = content.Title + ':';
                             contentItem.appendChild(contentTitle);
 
                             const contentDetails = document.createElement('p');
@@ -226,20 +221,26 @@ function displayNotes(chapterIndex) {
 
                             contentList.appendChild(contentItem);
                         });
+                        subsectionItem.appendChild(contentList);
                     } else {
+                        const contentItem = document.createElement('li'); // List item for content
+                        contentItem.classList.add('content');
+
                         const contentDetails = document.createElement('p');
                         contentDetails.textContent = subsection.Content;
-                        contentList.appendChild(contentDetails);
+                        contentItem.appendChild(contentDetails);
+
+                        subsectionItem.appendChild(contentItem);
                     }
 
-                    subsectionItem.appendChild(contentList);
                     subsectionList.appendChild(subsectionItem);
                 });
 
-                sectionDiv.appendChild(subsectionList);
-                chapterDiv.appendChild(sectionDiv);
+                sectionItem.appendChild(subsectionList);
+                sectionList.appendChild(sectionItem);
             });
 
+            chapterDiv.appendChild(sectionList);
             notesContainer.appendChild(chapterDiv);
         })
         .catch(error => console.error('Error fetching notes:', error));

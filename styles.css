@@ -6,6 +6,7 @@ body {
     align-items: center;
     margin: 0;
     padding: 0;
+    font-size: 16px; /* Set a base font size */
 }
 
 .tab {
@@ -23,7 +24,7 @@ body {
     cursor: pointer;
     padding: 14px 16px;
     transition: 0.3s;
-    font-size: 17px;
+    font-size: 16px; /* Consistent font size */
     color: black;
 }
 
@@ -60,7 +61,6 @@ body {
 }
 
 .question p {
-    font-size: 1.2em;
     margin-bottom: 10px;
 }
 
@@ -70,7 +70,6 @@ form {
 
 label {
     display: block;
-    font-size: 1em;
     margin: 10px 0;
     cursor: pointer;
 }
@@ -88,7 +87,7 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    font-size: 1em;
+    font-size: 16px; /* Consistent font size */
     transition: background-color 0.3s;
 }
 
@@ -125,7 +124,7 @@ button.hidden {
     text-decoration: none;
     color: #007bff;
     margin: 20px 0;
-    font-size: 1em;
+    font-size: 16px; /* Consistent font size */
     align-self: flex-start;
 }
 
@@ -134,7 +133,6 @@ button.hidden {
 }
 
 .home-container h1 {
-    font-size: 2em;
     margin-bottom: 20px;
 }
 
@@ -150,7 +148,6 @@ button.hidden {
 .home-container ul li a {
     text-decoration: none;
     color: #007bff;
-    font-size: 1.2em;
 }
 
 .home-container ul li a:hover {
@@ -159,41 +156,41 @@ button.hidden {
 
 .result {
     text-align: center;
-    font-size: 1.2em;
     margin-top: 20px;
-}
-
-.chapter, .section, .subsection {
-    margin-bottom: 20px; /* Increased bottom margin for better spacing */
-}
-
-.chapter h4, .section h5, .subsection h6 {
-    margin: 10px 0; /* Increased top and bottom margin for better spacing */
-    font-weight: bold; /* Bold for section titles */
 }
 
 .chapter {
     margin-top: 20px;
 }
 
+.chapter h4 {
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
 .section {
-    margin-left: 20px;
+    margin-left: 10px; /* Reduced left margin */
+    margin-top: 10px;
+    list-style-type: disc; /* Bullet for sections */
 }
 
 .subsection {
-    margin-left: 40px;
+    margin-left: 15px; /* Reduced left margin */
+    margin-top: 5px;
+    list-style-type: circle; /* Bullet for subsections */
 }
 
 .content {
-    margin-left: 60px;
+    margin-left: 20px; /* Reduced left margin */
+    margin-top: 5px;
+    list-style-type: square; /* Bullet for content */
 }
 
-strong {
-    display: block;
-    margin-top: 10px;
-    font-weight: bold; /* Ensure bold for content titles */
+.content strong {
+    font-weight: bold;
 }
 
 .content p {
-    margin: 5px 0; /* Adjust spacing for content paragraphs */
+    margin: 5px 0;
 }
