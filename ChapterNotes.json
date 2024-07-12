@@ -149,15 +149,19 @@
               "Content": [
                 {
                   "Title": "House of Commons",
-                  "Details": "Election process, responsibilities of Members of Parliament (MPs)."
+                  "Details": "Elected representatives forming the government, debating policies, passing laws."
                 },
                 {
                   "Title": "Senate",
-                  "Details": "Appointment process, role in reviewing and amending legislation."
+                  "Details": "Appointed body reviewing legislation, regional representation."
+                },
+                {
+                  "Title": "Prime Minister",
+                  "Details": "Head of government responsible for national policy and administration."
                 },
                 {
                   "Title": "Governor General",
-                  "Details": "Ceremonial duties, constitutional roles, and significance in representing the Crown."
+                  "Details": "Represents the monarch, grants Royal Assent to laws, performs ceremonial duties."
                 }
               ]
             }
@@ -344,15 +348,15 @@
               "Content": [
                 {
                   "Title": "Legal Protection",
-                  "Details": "Section 2(a) of the Canadian Charter of Rights and Freedoms."
+                  "Details": "Section 2(a) of the Canadian Charter of Rights and Freedoms ensures individuals can practice any religion or none."
                 },
                 {
                   "Title": "Practices",
-                  "Details": "Right to practice any religion or none, including attending places of worship, wearing religious attire, and observing religious holidays."
+                  "Details": "Includes the right to attend religious services, wear religious symbols, and observe religious holidays."
                 },
                 {
                   "Title": "Limitations",
-                  "Details": "Restrictions only in cases of harm or public safety concerns."
+                  "Details": "Restrictions may apply only in cases of harm or public safety concerns."
                 }
               ]
             },
@@ -361,15 +365,15 @@
               "Content": [
                 {
                   "Title": "Scope",
-                  "Details": "Covers speech, art, media, and academic freedom."
+                  "Details": "Covers the right to express beliefs and opinions through speech, media, art, and academic work."
                 },
                 {
                   "Title": "Legal Precedents",
-                  "Details": "Notable court cases upholding freedom of expression, such as R. v. Keegstra."
+                  "Details": "Notable court cases such as R. v. Keegstra which addresses hate speech limits."
                 },
                 {
                   "Title": "Restrictions",
-                  "Details": "Hate speech laws, defamation laws, limitations in the interest of national security."
+                  "Details": "Hate speech laws, defamation laws, and limitations in the interest of national security."
                 }
               ]
             },
@@ -382,11 +386,11 @@
                 },
                 {
                   "Title": "Historical Examples",
-                  "Details": "Key protests and movements in Canadian history, such as the Women’s Suffrage Movement, Quebec student protests."
+                  "Details": "Important movements such as the Women’s Suffrage Movement and Indigenous rights protests."
                 },
                 {
                   "Title": "Legal Framework",
-                  "Details": "Permits and regulations for public gatherings."
+                  "Details": "Requirements for obtaining permits and following regulations for public gatherings."
                 }
               ]
             },
@@ -395,15 +399,15 @@
               "Content": [
                 {
                   "Title": "Rights",
-                  "Details": "Freedom to join and form organizations, unions, and political parties for collective action and representation."
+                  "Details": "Freedom to join and form organizations, including unions, political parties, and social clubs."
                 },
                 {
                   "Title": "Significance",
-                  "Details": "Promotes collective bargaining, political participation, and community building."
+                  "Details": "Importance in collective bargaining, political activism, and community building."
                 },
                 {
                   "Title": "Notable Organizations",
-                  "Details": "Examples of influential associations in Canada, like the Canadian Labour Congress and various political parties."
+                  "Details": "Examples of influential associations in Canada such as the Canadian Labour Congress and various political parties."
                 }
               ]
             }
@@ -417,11 +421,11 @@
               "Content": [
                 {
                   "Title": "Legal Basis",
-                  "Details": "Section 6 of the Charter of Rights and Freedoms."
+                  "Details": "Section 6 of the Charter of Rights and Freedoms guarantees the right to move and reside anywhere in Canada."
                 },
                 {
                   "Title": "Rights",
-                  "Details": "Live, work, and travel freely within Canada; enter and leave the country without restrictions."
+                  "Details": "Includes the right to live, work, and travel freely within Canada and to enter and leave the country without restrictions."
                 },
                 {
                   "Title": "Applications",
@@ -434,15 +438,11 @@
               "Content": [
                 {
                   "Title": "Eligibility",
-                  "Details": "Requirements for obtaining a Canadian passport."
+                  "Details": "Requirements for obtaining a Canadian passport include proof of citizenship, identity documents, and photographs."
                 },
                 {
                   "Title": "Application Process",
-                  "Details": "Required documents, fees, application forms."
-                },
-                {
-                  "Title": "Processing Time",
-                  "Details": "Standard and expedited processing times."
+                  "Details": "Steps to apply, fees, and processing times."
                 },
                 {
                   "Title": "Renewal",
@@ -460,11 +460,11 @@
               "Content": [
                 {
                   "Title": "Legislation",
-                  "Details": "Canadian Human Rights Act, Employment Equity Act."
+                  "Details": "The Canadian Human Rights Act and the Employment Equity Act promote gender equality and prohibit discrimination based on gender."
                 },
                 {
                   "Title": "Examples",
-                  "Details": "Policies ensuring equal treatment and protection under the law for all genders."
+                  "Details": "Policies ensuring equal pay for equal work, anti-discrimination measures in the workplace, and support for women in leadership roles."
                 },
                 {
                   "Title": "Challenges",
@@ -482,15 +482,15 @@
               "Content": [
                 {
                   "Title": "Legal Obligations",
-                  "Details": "Adherence to Canadian laws and regulations."
+                  "Details": "Adherence to Canadian laws and regulations at all levels of government."
                 },
                 {
                   "Title": "Consequences",
-                  "Details": "Penalties for non-compliance, including fines, imprisonment, and civil liabilities."
+                  "Details": "Penalties for non-compliance including fines, imprisonment, and civil liabilities."
                 },
                 {
                   "Title": "Resources",
-                  "Details": "Legal aid services, public legal education programs."
+                  "Details": "Access to legal aid services and public legal education programs."
                 }
               ]
             },
@@ -503,11 +503,11 @@
                 },
                 {
                   "Title": "Health and Education",
-                  "Details": "Access to healthcare services, educational opportunities, and social services."
+                  "Details": "Access to public healthcare services and educational opportunities."
                 },
                 {
                   "Title": "Support Systems",
-                  "Details": "Employment Insurance, social assistance programs, family benefits."
+                  "Details": "Government assistance programs like Employment Insurance and Canada Child Benefit."
                 }
               ]
             },
@@ -516,15 +516,15 @@
               "Content": [
                 {
                   "Title": "Selection Process",
-                  "Details": "How citizens are selected for jury duty."
+                  "Details": "Citizens are randomly selected from the electoral roll to serve on juries."
                 },
                 {
                   "Title": "Responsibilities",
-                  "Details": "Role of jurors in the judicial process, importance of impartiality and confidentiality."
+                  "Details": "Jurors must remain impartial and keep deliberations confidential."
                 },
                 {
                   "Title": "Exemptions",
-                  "Details": "Criteria for being excused from jury duty, such as age, health issues, and specific occupations."
+                  "Details": "Criteria for exemption include age, health issues, and specific occupations."
                 }
               ]
             },
@@ -554,11 +554,11 @@
                 },
                 {
                   "Title": "Environmental Protection",
-                  "Details": "Engage in activities to preserve Canadian cultural heritage and protect the environment."
+                  "Details": "Participation in conservation efforts, recycling programs, and sustainable practices."
                 },
                 {
-                  "Title": "Programs",
-                  "Details": "National parks, heritage conservation programs, recycling initiatives."
+                  "Title": "Government Programs",
+                  "Details": "Initiatives like Parks Canada, environmental grants, and heritage conservation programs."
                 }
               ]
             }
@@ -577,11 +577,27 @@
               "Content": [
                 {
                   "Title": "Role of the Monarch",
-                  "Details": "Historical context and current functions of the monarchy in Canada."
+                  "Details": "The monarch acts as the ceremonial head of state and represents continuity and tradition in Canada."
+                },
+                {
+                  "Title": "Ceremonial Duties",
+                  "Details": "Includes attending state functions, granting Royal Assent to legislation, and representing Canada abroad."
+                },
+                {
+                  "Title": "Constitutional Functions",
+                  "Details": "Ensuring the continuity of government, upholding constitutional practices, and acting as a symbol of unity."
                 },
                 {
                   "Title": "Governor General",
-                  "Details": "Appointed by the monarch on the advice of the Prime Minister."
+                  "Details": "Appointed by the monarch on the advice of the Prime Minister, serves as the monarch's representative in Canada."
+                },
+                {
+                  "Title": "Duties",
+                  "Details": "Granting Royal Assent to bills, representing the Crown at official functions, and performing ceremonial roles."
+                },
+                {
+                  "Title": "Significance",
+                  "Details": "Ensures the continuity of government and safeguards constitutional practices."
                 }
               ]
             },
@@ -590,24 +606,47 @@
               "Content": [
                 {
                   "Title": "Structure of Parliament",
-                  "Details": "House of Commons, Senate, the role of the Prime Minister."
+                  "Details": "Consists of the House of Commons and the Senate."
                 },
                 {
-                  "Title": "Electoral System",
-                  "Details": "First-past-the-post system, electoral districts, and the process of electing MPs."
-                }
-              ]
-            },
-            {
-              "SubsectionTitle": "Federal State",
-              "Content": [
-                {
-                  "Title": "Division of Powers",
-                  "Details": "Responsibilities divided between the federal and provincial/territorial governments."
+                  "Title": "House of Commons",
+                  "Details": "Elected representatives forming the government, debating policies, passing laws."
                 },
                 {
-                  "Title": "Intergovernmental Relations",
-                  "Details": "Mechanisms for cooperation between federal and provincial governments."
+                  "Title": "Members of Parliament (MPs)",
+                  "Details": "Elected to represent constituencies, participate in committees, and debate legislation."
+                },
+                {
+                  "Title": "Government Formation",
+                  "Details": "The party with the most seats forms the government; the Prime Minister leads the executive branch."
+                },
+                {
+                  "Title": "Senate",
+                  "Details": "Appointed body reviewing legislation and providing regional representation."
+                },
+                {
+                  "Title": "Composition",
+                  "Details": "105 appointed Senators representing different regions of Canada."
+                },
+                {
+                  "Title": "Functions",
+                  "Details": "Reviewing, amending, and approving legislation, representing regional interests."
+                },
+                {
+                  "Title": "Appointment Process",
+                  "Details": "Senators are appointed by the Governor General on the advice of the Prime Minister."
+                },
+                {
+                  "Title": "Prime Minister",
+                  "Details": "Head of government responsible for national policy and administration."
+                },
+                {
+                  "Title": "Duties",
+                  "Details": "Leading the executive branch, setting government policy, representing Canada internationally."
+                },
+                {
+                  "Title": "Governor General",
+                  "Details": "Represents the monarch, grants Royal Assent to laws, performs ceremonial duties."
                 }
               ]
             }
@@ -621,15 +660,27 @@
               "Content": [
                 {
                   "Title": "Policy Framework",
-                  "Details": "Canadian Multiculturalism Act, policies promoting cultural diversity."
+                  "Details": "The Canadian Multiculturalism Act promotes cultural diversity and ensures equal treatment of all cultural groups."
                 },
                 {
                   "Title": "Cultural Representation",
-                  "Details": "Demographics showing the diversity of Canada's population."
+                  "Details": "Demographic data on Canada's multicultural population, contributions of various ethnic communities."
+                },
+                {
+                  "Title": "Major Ethnic Groups",
+                  "Details": "Contributions of communities such as South Asian, Chinese, Black, and Indigenous peoples."
                 },
                 {
                   "Title": "Integration Programs",
                   "Details": "Government initiatives supporting the integration of immigrants."
+                },
+                {
+                  "Title": "Language Training",
+                  "Details": "LINC (Language Instruction for Newcomers to Canada) programs providing free language education."
+                },
+                {
+                  "Title": "Settlement Services",
+                  "Details": "Employment support, housing assistance, legal aid, and community integration programs."
                 }
               ]
             },
@@ -638,15 +689,23 @@
               "Content": [
                 {
                   "Title": "Historical Contributions",
-                  "Details": "Building the Canadian Pacific Railway, developing agriculture, founding communities."
+                  "Details": "Significant roles in building Canada's infrastructure, economy, and cultural landscape."
+                },
+                {
+                  "Title": "Chinese Head Tax",
+                  "Details": "Imposed on Chinese immigrants from 1885 to 1923, a significant historical injustice."
                 },
                 {
                   "Title": "Contemporary Impact",
                   "Details": "Contributions in various fields such as technology, arts, science, and business."
                 },
                 {
+                  "Title": "Prominent Figures",
+                  "Details": "Examples include Michaëlle Jean, former Governor General, and Naheed Nenshi, former Mayor of Calgary."
+                },
+                {
                   "Title": "Success Stories",
-                  "Details": "Notable immigrants and their achievements in Canada."
+                  "Details": "Notable immigrants and their achievements showcasing the benefits of a diverse society."
                 }
               ]
             }
@@ -660,15 +719,15 @@
               "Content": [
                 {
                   "Title": "Legal Principles",
-                  "Details": "Importance of the rule of law in maintaining justice and equality."
+                  "Details": "The rule of law ensures that all individuals and institutions are subject to and accountable under the law."
                 },
                 {
                   "Title": "Legal Institutions",
-                  "Details": "Courts, police forces, and their roles."
+                  "Details": "The judiciary, law enforcement agencies, and their roles in upholding justice."
                 },
                 {
                   "Title": "Case Studies",
-                  "Details": "Landmark legal cases upholding the rule of law, such as the Persons Case and Charter challenges."
+                  "Details": "Landmark cases such as the Persons Case (Edwards v. Canada) and significant Charter challenges."
                 }
               ]
             },
@@ -677,15 +736,15 @@
               "Content": [
                 {
                   "Title": "Democracy in Action",
-                  "Details": "Functioning of democratic institutions, electoral process."
+                  "Details": "Functioning of democratic institutions, the electoral process, and citizen participation."
                 },
                 {
                   "Title": "Political Freedoms",
-                  "Details": "Rights to free speech, assembly, and association."
+                  "Details": "Rights to free speech, assembly, and association as pillars of democracy."
                 },
                 {
                   "Title": "Civic Engagement",
-                  "Details": "Importance of community involvement, voting, and advocacy."
+                  "Details": "Importance of voting, community involvement, and advocacy for maintaining a healthy democracy."
                 }
               ]
             },
@@ -694,7 +753,7 @@
               "Content": [
                 {
                   "Title": "Symbols of Pride",
-                  "Details": "National anthem, flag, national holidays, and cultural heritage."
+                  "Details": "The national anthem, flag, official holidays, and cultural heritage."
                 },
                 {
                   "Title": "Achievements",
@@ -702,7 +761,7 @@
                 },
                 {
                   "Title": "Cultural Events",
-                  "Details": "Celebrations such as Canada Day, Remembrance Day."
+                  "Details": "Celebrations like Canada Day, Remembrance Day, and their significance in fostering national pride."
                 }
               ]
             }
@@ -724,12 +783,32 @@
                   "Details": "Rich traditions, governance structures, and economies of First Nations, Métis, and Inuit."
                 },
                 {
+                  "Title": "First Nations",
+                  "Details": "Various tribes and their unique cultures and governance, such as the Haudenosaunee Confederacy's sophisticated political system."
+                },
+                {
+                  "Title": "Métis",
+                  "Details": "Mixed heritage, significant contributions to the fur trade, unique cultural practices."
+                },
+                {
+                  "Title": "Inuit",
+                  "Details": "Arctic inhabitants, traditional lifestyles adapted to harsh climates, contributions to northern exploration."
+                },
+                {
                   "Title": "Significant Groups",
                   "Details": "Detailed accounts of Haudenosaunee, Plains Cree, and Inuvialuit."
                 },
                 {
+                  "Title": "Governance Structures",
+                  "Details": "Systems like the Iroquois Confederacy, known for its sophisticated political structure."
+                },
+                {
                   "Title": "Historical Treaties",
                   "Details": "Treaties like the Numbered Treaties, Treaty of Niagara, and their modern implications."
+                },
+                {
+                  "Title": "Treaty Rights",
+                  "Details": "Rights and provisions granted to Indigenous peoples, ongoing legal and social impacts."
                 }
               ]
             },
@@ -741,12 +820,24 @@
                   "Details": "Jacques Cartier's exploration of the St. Lawrence River, Samuel de Champlain's establishment of Quebec City."
                 },
                 {
+                  "Title": "Explorations and Settlements",
+                  "Details": "Early interactions with Indigenous peoples, establishment of fur trading posts."
+                },
+                {
                   "Title": "Colonial Settlements",
                   "Details": "The establishment of New France, British colonies in Atlantic Canada."
                 },
                 {
+                  "Title": "Economic Activities",
+                  "Details": "Fur trade, fishing, agriculture."
+                },
+                {
                   "Title": "Interactions with Indigenous Peoples",
                   "Details": "Early trade relationships, conflicts, and alliances."
+                },
+                {
+                  "Title": "Alliances and Conflicts",
+                  "Details": "Impact on Indigenous societies, European colonization efforts."
                 }
               ]
             },
@@ -762,8 +853,16 @@
                   "Details": "Hudson's Bay Company, North West Company, key trading posts."
                 },
                 {
+                  "Title": "Trade Networks",
+                  "Details": "Extensive trade routes connecting different regions and communities."
+                },
+                {
                   "Title": "Cultural Exchanges",
                   "Details": "Influence on Indigenous cultures and European settlers."
+                },
+                {
+                  "Title": "Métis Community",
+                  "Details": "Emergence and contributions to the fur trade."
                 }
               ]
             }
@@ -784,8 +883,16 @@
                   "Details": "Charlottetown, Quebec, and London Conferences."
                 },
                 {
+                  "Title": "Outcomes",
+                  "Details": "Key agreements and compromises made during these conferences."
+                },
+                {
                   "Title": "Original Provinces",
                   "Details": "Ontario, Quebec, New Brunswick, Nova Scotia."
+                },
+                {
+                  "Title": "Historical Context",
+                  "Details": "Reasons for joining Confederation, economic and political motivations."
                 }
               ]
             },
@@ -797,8 +904,25 @@
                   "Details": "Inclusion of Manitoba, British Columbia, Prince Edward Island, Alberta, Saskatchewan, Newfoundland and Labrador."
                 },
                 {
-                  "Title": "Canadian Pacific Railway",
-                  "Details": "Construction, economic impact, cultural significance."
+                  "Title": "Significant Events",
+                  "Details": "Negotiations for entry, economic incentives, the building of the Canadian Pacific Railway."
+                }
+              ]
+            },
+            {
+              "SubsectionTitle": "Canadian Pacific Railway",
+              "Content": [
+                {
+                  "Title": "Construction",
+                  "Details": "Overcoming geographical challenges, labor issues, completion in 1885."
+                },
+                {
+                  "Title": "Economic Impact",
+                  "Details": "Facilitating trade, settlement, and national unity."
+                },
+                {
+                  "Title": "Cultural Significance",
+                  "Details": "Symbol of Canadian determination and engineering prowess."
                 }
               ]
             }
@@ -896,45 +1020,39 @@
                   "Details": "Greater acceptance and celebration of diversity."
                 }
               ]
-            }
-          ]
-        },
-        {
-          "SectionTitle": "Voting Rights Changes",
-          "Subsections": [
+            },
             {
-              "SubsectionTitle": "Asian Descent Voting Rights",
+              "SubsectionTitle": "Voting Rights Changes",
               "Content": [
                 {
-                  "Title": "Historical Denial",
-                  "Details": "Most Canadians of Asian descent were denied the vote in federal and provincial elections."
+                  "Title": "Asian Descent Voting Rights",
+                  "Details": [
+                    {
+                      "Topic": "Historical Denial",
+                      "Details": "Most Canadians of Asian descent were denied the vote in federal and provincial elections."
+                    },
+                    {
+                      "Topic": "1948 Change",
+                      "Details": "Japanese Canadians gained the right to vote."
+                    }
+                  ]
                 },
                 {
-                  "Title": "1948 Change",
-                  "Details": "Japanese Canadians gained the right to vote."
+                  "Title": "Aboriginal Voting Rights",
+                  "Details": "1960 Change: Aboriginal people were granted the right to vote in federal elections."
                 }
               ]
             },
             {
-              "SubsectionTitle": "Aboriginal Voting Rights",
+              "SubsectionTitle": "Head Tax",
               "Content": [
                 {
-                  "Title": "1960 Change",
-                  "Details": "Aboriginal people were granted the right to vote in federal elections."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "SectionTitle": "Head Tax",
-          "Subsections": [
-            {
-              "SubsectionTitle": "Introduction",
-              "Content": [
+                  "Title": "Introduction",
+                  "Details": "The Head Tax was a race-based entry fee imposed on Chinese immigrants to Canada."
+                },
                 {
                   "Title": "Details",
-                  "Details": "The Head Tax was a race-based entry fee imposed on Chinese immigrants to Canada."
+                  "Details": "Introduced in 1885 with the Chinese Immigration Act."
                 },
                 {
                   "Title": "Amounts",
@@ -943,12 +1061,12 @@
                 {
                   "Title": "Impact",
                   "Details": "Created significant financial barriers for Chinese immigrants and separated families."
+                },
+                {
+                  "Title": "Repeal and Apology",
+                  "Details": "The Head Tax was repealed in 1923, and the Canadian government issued a formal apology in 2006, along with compensation to survivors and their families."
                 }
               ]
-            },
-            {
-              "SubsectionTitle": "Repeal and Apology",
-              "Content": "The Head Tax was repealed in 1923, and the Canadian government issued a formal apology in 2006, along with compensation to survivors and their families."
             }
           ]
         }
@@ -1106,6 +1224,10 @@
                 {
                   "Title": "Mechanisms for Cooperation",
                   "Details": "Council of the Federation, First Ministers' Meetings, federal-provincial agreements."
+                },
+                {
+                  "Title": "Collaborative Efforts",
+                  "Details": "Joint initiatives on infrastructure, health, and environmental policies."
                 }
               ]
             }
@@ -1160,18 +1282,13 @@
                   "Details": "Ensuring continuity of government, safeguarding constitutional practices."
                 }
               ]
-            }
-          ]
-        },
-        {
-          "SectionTitle": "Law-making",
-          "Subsections": [
+            },
             {
-              "SubsectionTitle": "Legislative Process",
+              "SubsectionTitle": "Law-making",
               "Content": [
                 {
-                  "Title": "Bill Introduction",
-                  "Details": "First Reading (introduction of the bill), Second Reading (debate on principle)."
+                  "Title": "Legislative Process",
+                  "Details": "Bill Introduction: First Reading (introduction of the bill), Second Reading (debate on principle)."
                 },
                 {
                   "Title": "Committee Stage",
@@ -1211,6 +1328,10 @@
                 {
                   "Title": "Registration",
                   "Details": "Methods for registering, updating information."
+                },
+                {
+                  "Title": "Voter Information Card",
+                  "Details": "Importance of the card, how to update details."
                 }
               ]
             },
@@ -1226,8 +1347,21 @@
                   "Details": "Constituencies, first-past-the-post system, campaigning."
                 },
                 {
-                  "Title": "Government Formation",
-                  "Details": "Majority vs. Minority Governments: Forming a government, roles of the Prime Minister and Cabinet."
+                  "Title": "Campaign Strategies",
+                  "Details": "Modern campaign methods, use of social media."
+                }
+              ]
+            },
+            {
+              "SubsectionTitle": "Government Formation",
+              "Content": [
+                {
+                  "Title": "Majority vs. Minority Governments",
+                  "Details": "Forming a government, roles of the Prime Minister and Cabinet."
+                },
+                {
+                  "Title": "Confidence and Supply",
+                  "Details": "Importance of maintaining confidence in the House of Commons."
                 }
               ]
             }
@@ -1246,6 +1380,10 @@
                 {
                   "Title": "Updating Information",
                   "Details": "Procedures for changing address, name updates, correcting errors."
+                },
+                {
+                  "Title": "Accessibility Measures",
+                  "Details": "Ensuring all eligible voters can register."
                 }
               ]
             },
@@ -1259,6 +1397,10 @@
                 {
                   "Title": "Mail-In Voting",
                   "Details": "Procedures for requesting, completing, and submitting a mail-in ballot."
+                },
+                {
+                  "Title": "Security Measures",
+                  "Details": "Ensuring the integrity of mail-in ballots."
                 },
                 {
                   "Title": "Accessibility Measures",
@@ -1282,6 +1424,10 @@
                 {
                   "Title": "Provincial and Territorial Courts",
                   "Details": "Handling family law, small claims, minor criminal cases."
+                },
+                {
+                  "Title": "Court Procedures",
+                  "Details": "Filing a claim, trial process, appeals."
                 }
               ]
             },
@@ -1291,6 +1437,10 @@
                 {
                   "Title": "Functions",
                   "Details": "Serious criminal cases, major civil cases, appellate functions."
+                },
+                {
+                  "Title": "Divisions",
+                  "Details": "Trial division, appellate division."
                 }
               ]
             },
@@ -1304,6 +1454,14 @@
                 {
                   "Title": "Role",
                   "Details": "Highest court of appeal, interpreting the Constitution, adjudicating on significant legal and constitutional issues."
+                },
+                {
+                  "Title": "Landmark Cases",
+                  "Details": "Reference re Secession of Quebec, R. v. Morgentaler, Vriend v. Alberta."
+                },
+                {
+                  "Title": "Judicial Impact",
+                  "Details": "The influence of Supreme Court decisions on Canadian law and society."
                 }
               ]
             }
@@ -1322,6 +1480,10 @@
                 {
                   "Title": "Applications",
                   "Details": "Equality before the law, accountability of government officials, protection of rights."
+                },
+                {
+                  "Title": "Case Studies",
+                  "Details": "Persons Case (Edwards v. Canada), enforcement of the Charter of Rights and Freedoms."
                 }
               ]
             },
@@ -1335,6 +1497,10 @@
                 {
                   "Title": "Rights",
                   "Details": "Right to a fair trial, right to legal representation, right to confront accusers."
+                },
+                {
+                  "Title": "Court Procedures",
+                  "Details": "Burden of proof on the prosecution, standard of 'beyond a reasonable doubt.'"
                 }
               ]
             },
@@ -1373,8 +1539,16 @@
                   "Details": "Adoption in 1965, designed by George F. G. Stanley and John Matheson."
                 },
                 {
+                  "Title": "Debate and Selection",
+                  "Details": "The process of selecting the flag design."
+                },
+                {
                   "Title": "Design",
                   "Details": "Red and white flag with a maple leaf in the center, representing unity and peace."
+                },
+                {
+                  "Title": "Symbolism",
+                  "Details": "Meaning behind the colors and the maple leaf."
                 },
                 {
                   "Title": "Significance",
@@ -1448,6 +1622,10 @@
                 {
                   "Title": "Usage",
                   "Details": "Prominent in national celebrations like Canada Day, Remembrance Day, and cultural festivals."
+                },
+                {
+                  "Title": "Public Perception",
+                  "Details": "Emblems of unity, pride, and national heritage."
                 }
               ]
             },
@@ -1929,16 +2107,16 @@
       ]
     },
     {
-      "ChapterTitle": "Study Questions",
+      "ChapterTitle": "Preparation Tool",
       "Sections": [
         {
-          "SectionTitle": "Preparation Tool",
+          "SectionTitle": "Sample Questions",
           "Subsections": [
             {
-              "SubsectionTitle": "Sample Questions",
+              "SubsectionTitle": "Formats",
               "Content": [
                 {
-                  "Title": "Formats",
+                  "Title": "Multiple-choice",
                   "Details": "Multiple-choice, short answer, true/false, and scenario-based questions covering Canadian history, geography, governance, economy, and citizenship responsibilities."
                 },
                 {
