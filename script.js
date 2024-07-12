@@ -193,54 +193,54 @@ function displayNotes(chapterIndex) {
             chapterTitle.textContent = chapter.ChapterTitle;
             chapterDiv.appendChild(chapterTitle);
 
-            const sectionList = document.createElement('ul'); // Create a list for sections
             chapter.Sections.forEach(section => {
-                const sectionItem = document.createElement('li'); // List item for section
-                sectionItem.classList.add('section');
-                sectionItem.textContent = section.SectionTitle;
+                const sectionDiv = document.createElement('div');
+                sectionDiv.classList.add('section');
 
-                const subsectionList = document.createElement('ul'); // Create a list for subsections
+                const sectionTitle = document.createElement('p');
+                sectionTitle.innerHTML = `<span class="bullet">•</span> ${section.SectionTitle}`;
+                sectionDiv.appendChild(sectionTitle);
+
                 section.Subsections.forEach(subsection => {
-                    const subsectionItem = document.createElement('li'); // List item for subsection
-                    subsectionItem.classList.add('subsection');
-                    subsectionItem.textContent = subsection.SubsectionTitle;
+                    const subsectionDiv = document.createElement('div');
+                    subsectionDiv.classList.add('subsection');
+
+                    const subsectionTitle = document.createElement('p');
+                    subsectionTitle.innerHTML = `<span class="bullet">◦</span> ${subsection.SubsectionTitle}`;
+                    subsectionDiv.appendChild(subsectionTitle);
 
                     if (Array.isArray(subsection.Content)) {
-                        const contentList = document.createElement('ul'); // Create a list for content
                         subsection.Content.forEach(content => {
-                            const contentItem = document.createElement('li'); // List item for content
-                            contentItem.classList.add('content');
+                            const contentDiv = document.createElement('div');
+                            contentDiv.classList.add('content');
 
                             const contentTitle = document.createElement('strong');
-                            contentTitle.textContent = content.Title + ':';
-                            contentItem.appendChild(contentTitle);
+                            contentTitle.innerHTML = `<span class="bullet">▪</span> ${content.Title}:`;
+                            contentDiv.appendChild(contentTitle);
 
                             const contentDetails = document.createElement('p');
                             contentDetails.textContent = content.Details;
-                            contentItem.appendChild(contentDetails);
+                            contentDiv.appendChild(contentDetails);
 
-                            contentList.appendChild(contentItem);
+                            subsectionDiv.appendChild(contentDiv);
                         });
-                        subsectionItem.appendChild(contentList);
                     } else {
-                        const contentItem = document.createElement('li'); // List item for content
-                        contentItem.classList.add('content');
+                        const contentDiv = document.createElement('div');
+                        contentDiv.classList.add('content');
 
                         const contentDetails = document.createElement('p');
-                        contentDetails.textContent = subsection.Content;
-                        contentItem.appendChild(contentDetails);
+                        contentDetails.innerHTML = `<span class="bullet">▪</span> ${subsection.Content}`;
+                        contentDiv.appendChild(contentDetails);
 
-                        subsectionItem.appendChild(contentItem);
+                        subsectionDiv.appendChild(contentDiv);
                     }
 
-                    subsectionList.appendChild(subsectionItem);
+                    sectionDiv.appendChild(subsectionDiv);
                 });
 
-                sectionItem.appendChild(subsectionList);
-                sectionList.appendChild(sectionItem);
+                chapterDiv.appendChild(sectionDiv);
             });
 
-            chapterDiv.appendChild(sectionList);
             notesContainer.appendChild(chapterDiv);
         })
         .catch(error => console.error('Error fetching notes:', error));

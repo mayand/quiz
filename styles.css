@@ -169,28 +169,13 @@ button.hidden {
     margin-bottom: 10px;
 }
 
-.section {
-    margin-left: 10px; /* Reduced left margin */
-    margin-top: 10px;
-    list-style-type: disc; /* Bullet for sections */
-}
-
-.subsection {
-    margin-left: 15px; /* Reduced left margin */
+.section, .subsection, .content {
+    margin-left: 10px; /* Minimal left margin */
     margin-top: 5px;
-    list-style-type: circle; /* Bullet for subsections */
 }
 
-.content {
-    margin-left: 20px; /* Reduced left margin */
-    margin-top: 5px;
-    list-style-type: square; /* Bullet for content */
-}
-
-.content strong {
+.bullet {
+    display: inline-block;
+    margin-right: 5px;
     font-weight: bold;
-}
-
-.content p {
-    margin: 5px 0;
 }
